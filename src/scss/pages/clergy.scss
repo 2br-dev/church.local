@@ -1,0 +1,15 @@
+@import '../parts/typography';
+
+#clergy-page{
+	
+	& .medi-header{
+		background-position: right center;
+		background-size: unset;
+		background-repeat: no-repeat;
+		background-color: $text;
+
+		&:after{
+			display: none;
+		}
+	}
+}

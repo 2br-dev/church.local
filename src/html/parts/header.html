@@ -1,0 +1,47 @@
+<header>
+	<div class="container">
+		<a href="/" class="logo"><span>Иоанно-Юрьевский православный храм</span></a>
+		<nav>
+			@@include('./sitemap.html')
+		</nav>
+		<div class="separator"></div>
+		<div class="mobile-actions hide-l-up">
+			<!-- Гость -->
+			<a href="#login" class="modal-trigger disabled"><i class="mdi mdi-account"></i></a>
+			<!-- /Гость -->
+			<a href="#mobile-navi" class="sidenav-trigger"><i class="mdi mdi-menu"></i></a>
+		</div>
+		<div class="actions hide-l-down">
+			<!-- Гость -->
+			<a href="#help" class="bttn-outlined-accent modal-trigger hide">Пожертвовать</a>
+			<a href="" class="modal-trigger disabled" id="login"><i class="mdi mdi-account"></i></a>
+			<!-- /Гость -->
+		</div>
+	</div>
+	<div class="mega-menu">
+		<div id="menu-header"></div>
+		<div id="menu-content">
+			<div id="l1"></div>
+			<div id="l2"></div>
+			<div id="l3"></div>
+			<div id="l4"></div>
+		</div>
+	</div>
+</header>
+<ul class="sidenav" id="mobile-navi">
+	<li class="sidenav-header">
+		<span class="lazy" data-src="/img/logo_full.svg"></span>
+		<span class="header">Иоанно-Юрьевский православный храм</span>
+		<a href="javascript:void(0);" class="sidenav-close"><i class="mdi mdi-close"></i></a>
+	</li>
+	@@include('./sitemap.html')
+	<li class="sidenav-footer">
+		<div class="basket">
+			<div class="count">2</div>
+			/
+			<div class="price">1 468₽</div>
+		</div>
+		<div class="separator"></div>
+		<a href="" class="basket-link indicator-link"><i class="mdi mdi-cart"></i><span class="indicator"></span></a>
+	</li>
+</ul>

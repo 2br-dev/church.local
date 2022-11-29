@@ -1,0 +1,175 @@
+@import '../parts/typography';
+@import '../parts/media';
+
+#about-page{
+
+	& section{
+
+		padding: 4vmax 0;
+
+		&#hero{
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			height: calc(100vh - 54px);
+			background: $text;
+			color: #fff;
+
+			& .h1{
+				@extend h1;
+				font-weight: bold;
+			}
+
+			& .logo-block{
+				display: flex;
+				align-items: center;
+
+				@media(max-width: $medium){
+					flex-direction: column;
+
+					& .text-wrapper{
+						text-align: center;
+					}
+				}
+
+				& .logo-wrapper{
+					margin-right: 20px;
+				}
+
+				& .text-wrapper{
+					width: min-content;
+				}
+			}
+
+			& .intro{
+				max-width: 600px;
+				text-align: center;
+				padding: 0 2vmax;
+			}
+		}
+
+		&#about{
+
+			& .lazy{
+				position: relative;
+				aspect-ratio: 4 / 3;
+
+				&:before{
+					content: '';
+					display: block;
+					width: 40%;
+					height: 40%;
+					position: absolute;
+					right: -10%;
+					top: -10%;
+					background: $text;
+					z-index: -1;
+
+					@media(max-width: $medium){
+						display: none;
+					}
+				}
+			}
+		}
+
+		&#complications{
+
+			$offset: 6vmax;
+
+			padding-bottom: 0;
+			margin-bottom: $offset;
+			background-color: $text;
+			background-image: url(/img/dark-logo.svg);
+			background-position: right center;
+			background-repeat: no-repeat;
+			color: #fff;
+
+			@media(max-width: $large){
+				margin-bottom: 0;
+			}
+
+			& .container{
+
+				transform: translateY($offset);
+
+				@media(max-width: $large){
+					transform: none;
+				}
+
+				& .col{
+	
+					& p{
+						display: block;
+						height: calc(100% - 40px);
+						padding: 20px;
+						background: $paper;
+						color: $text;
+					}
+				}
+			}
+		}
+
+		&#plans{
+			
+			& .plans{
+				padding: 1vmax 0;
+				padding-left: 4vmax;
+				border-left: 2px solid $text;
+			}
+		}
+
+		&#between{
+
+			& .lazy{
+				border-radius: 24rem 24rem 0 0;
+			}
+		}
+
+		&#help{
+
+			& .container{
+
+				position: relative;
+
+				& .lazy{
+					width: 100%;
+				}
+
+				& .row{
+
+					&.absolute{
+
+						position: absolute;
+						width: 100%;
+						height: auto;
+						top: 50%;
+						left: 50%;
+						transform: translate(-50%, -50%);
+
+						@media(max-width: $extra-large){
+							position: relative;
+							top: unset;
+							left: unset;
+							transform: none;
+
+							& .col{
+								margin-top: -10%;
+
+								@media(max-width: $large){
+									margin-top: unset;
+								}
+							}
+						}
+
+						& .col{
+							background: rgba($paper, .7);
+							backdrop-filter: blur(5px);
+							padding: .7vmax 2vmax;
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	@@include('./parts/head.html', {title: 'Кто чем богат', style_file: 'blog'})
+</head>
+<body>
+	@@include('./parts/header.html')
+	<main>
+		<div id="blog-page">
+			<section id="head">
+				<div class="blog-header">
+					<div class="lazy wallpaper" data-src="/img/blog/apples.jpg">
+						<div class="container">
+							<div class="row no-margin flex vcenter">
+								<div class="col xl5 l6 m8 m2 offset-m2 s12">
+									<div class="lazy poster" data-src="/img/blog/apples.jpg"></div>
+								</div>
+								<div class="col l5 offset-l1 m8 offset-m2 offset-xl1 align-center-l-down">
+									<div class="h1">Кто чем богат</div>
+									<ul class="stats-wrapper">
+										<li class="stats white-text"><i class="mdi mdi-eye-outline"></i>16k</li>
+										<li class="stats white-text"><i class="mdi mdi-share"></i>400</li>
+										<li class="stats white-text"><i class="mdi mdi-comment-text-outline"></i>64</li>
+										<li class="stats white-text"><i class="mdi mdi-heart red-text"></i>278</li>
+										<li class="stats white-text"><i class="mdi mdi-bookmark blue-text"></i>1</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section id="blog-content">
+				<div class="container">
+					<div class="row">
+						<div class="col s12">
+							<h1>Попалась мне хорошая притча, делюсь. </h1>
+							<p class="note">"Блажен муж, боящийся Господа и крепко любящий заповеди Его ... Обилие и богатство в доме его, и правда его пребывает вовек" (Пс. 111:1,3) </p>
+						</div>
+						<div class="col l5 m6 s12"><img src="" alt="" class="lazy h" data-src="/img/blog/apple.jpg"></div>
+						<div class="col m6 s12">
+							<p>Купил человек себе дом новый, большой, красивый. И сад с фруктовыми деревьями — все хорошо, аккуратно. Рядом в кривеньком, стареньком домике жил завистливый сосед, который постоянно пытался испортить ему настроение: то мусор под ворота подбросит, то еще какую гадость сотворит.</p>
+							<p>И однажды проснулся человек в хорошем настроении, вышел на крыльцо, а там ведро с помоями. Человек взял ведро, помои вылил, ведро вычистил до блеска, насобирал в него самых больших, самых спелых и вкусных яблок и пошел к соседу.</p>
+							<p>Сосед, услышав стук в дверь, злорадно подумал: «Наконец-то я достал его!!!». Открывает дверь в надежде на скандал, а человек протягивает ему ведро с яблоками и говорит: «Кто чем богат, тот тем и делится!».</p>
+							<p>Берегите друг друга, и делитесь только яблоками и добрыми делами!)</p>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section>
+				@@include('./parts/popular.html')
+			</section>
+			@@include('./parts/subscribe.html')
+		</div>
+	</main>
+	@@include('./parts/footer.html')
+	@@include('./parts/scripts.html')
+</body>
+</html>

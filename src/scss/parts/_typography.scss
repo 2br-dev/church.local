@@ -1,0 +1,103 @@
+@font-face{
+	font-family: 'Commissioner';
+	src: local('Commissioner'),
+		url('/fonts/Commissioner-Thin.woff2') format('woff2');
+	font-weight: 100;
+	font-style: normal;
+}
+
+@font-face{
+	font-family: 'Commissioner';
+	src: local('Commissioner'),
+		url('/fonts/Commissioner-Light.woff2') format('woff2');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face{
+	font-family: 'Commissioner';
+	src: local('Commissioner'),
+		url('/fonts/Commissioner-LightItalic.woff2') format('woff2');
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face{
+	font-family: 'Commissioner';
+	src: local('Commissioner'),
+		url('/fonts/Commissioner-Medium.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face{
+	font-family: 'Commissioner';
+	src: local('Commissioner'),
+		url('/fonts/Commissioner-MediumItalic.woff2') format('woff2');
+	font-weight: 500;
+	font-style: italic;
+}
+
+@font-face{
+	font-family: 'Commissioner';
+	src: local('Commissioner'),
+		url('/fonts/Commissioner-Bold.woff2') format('woff2');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face{
+	font-family: 'Commissioner';
+	src: local('Commissioner'),
+		url('/fonts/Commissioner-BoldItalic.woff2') format('woff2');
+	font-weight: 700;
+	font-style: italic;
+}
+
+
+// //= Primary colors ========================================
+$text: #1f202f;
+$link-color: #1f202f;
+$paper: #F5E7E8;
+
+$gold: #FDCC52;
+$blue: #85D0F4;
+
+// $dark-accent: #1FBCF5;
+
+
+body{
+	font-family: 'Commissioner';
+	font-weight: 300;
+	font-size: calc(16px + .1vmax);
+	line-height: 1.6em;
+
+	background: $paper;
+	color: $text;
+
+	& a{
+		color: $link-color;
+	}
+
+	& h1{
+		font-size: 2.8rem;
+		line-height: 1.3em;
+		text-transform: uppercase;
+	}
+
+	& h2{
+		text-transform: uppercase;
+		font-size: 2rem;
+		line-height: 1.3em;
+	}
+
+	& h3{
+		font-size: 1.6rem;
+		line-height: 1.3em;
+	}
+
+	& h4{
+		font-size: 1.3rem;
+		line-height: 1.3em;
+	}
+}

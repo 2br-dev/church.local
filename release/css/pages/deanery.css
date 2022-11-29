@@ -1,0 +1,22 @@
+#deanery-page section {
+  padding: 4vmax 0; }
+  #deanery-page section ul li {
+    padding-left: 40px;
+    position: relative; }
+    #deanery-page section ul li:before {
+      content: attr(data-symbol);
+      display: inline-block;
+      width: 40px;
+      font-weight: bold;
+      position: absolute;
+      top: 0;
+      left: 0; }
+
+#deanery-page .lazy {
+  background-size: cover;
+  width: 100%; }
+  #deanery-page .lazy#maksimetz {
+    margin-bottom: 2vmax; }
+    #deanery-page .lazy#maksimetz + a {
+      margin-bottom: 2vmax;
+      display: block; }

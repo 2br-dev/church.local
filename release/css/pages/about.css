@@ -1,0 +1,166 @@
+@font-face {
+  font-family: 'Commissioner';
+  src: local("Commissioner"), url("/fonts/Commissioner-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Commissioner';
+  src: local("Commissioner"), url("/fonts/Commissioner-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Commissioner';
+  src: local("Commissioner"), url("/fonts/Commissioner-LightItalic.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Commissioner';
+  src: local("Commissioner"), url("/fonts/Commissioner-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Commissioner';
+  src: local("Commissioner"), url("/fonts/Commissioner-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Commissioner';
+  src: local("Commissioner"), url("/fonts/Commissioner-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Commissioner';
+  src: local("Commissioner"), url("/fonts/Commissioner-BoldItalic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic; }
+
+body {
+  font-family: 'Commissioner';
+  font-weight: 300;
+  font-size: calc(16px + .1vmax);
+  line-height: 1.6em;
+  background: #F5E7E8;
+  color: #1f202f; }
+  body a {
+    color: #1f202f; }
+  body h1, body #about-page section#hero .h1, #about-page section#hero body .h1 {
+    font-size: 2.8rem;
+    line-height: 1.3em;
+    text-transform: uppercase; }
+  body h2 {
+    text-transform: uppercase;
+    font-size: 2rem;
+    line-height: 1.3em; }
+  body h3 {
+    font-size: 1.6rem;
+    line-height: 1.3em; }
+  body h4 {
+    font-size: 1.3rem;
+    line-height: 1.3em; }
+
+#about-page section {
+  padding: 4vmax 0; }
+  #about-page section#hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 54px);
+    background: #1f202f;
+    color: #fff; }
+    #about-page section#hero .h1 {
+      font-weight: bold; }
+    #about-page section#hero .logo-block {
+      display: flex;
+      align-items: center; }
+      @media (max-width: 800px) {
+        #about-page section#hero .logo-block {
+          flex-direction: column; }
+          #about-page section#hero .logo-block .text-wrapper {
+            text-align: center; } }
+      #about-page section#hero .logo-block .logo-wrapper {
+        margin-right: 20px; }
+      #about-page section#hero .logo-block .text-wrapper {
+        width: -moz-min-content;
+        width: min-content; }
+    #about-page section#hero .intro {
+      max-width: 600px;
+      text-align: center;
+      padding: 0 2vmax; }
+  #about-page section#about .lazy {
+    position: relative;
+    aspect-ratio: 4 / 3; }
+    #about-page section#about .lazy:before {
+      content: '';
+      display: block;
+      width: 40%;
+      height: 40%;
+      position: absolute;
+      right: -10%;
+      top: -10%;
+      background: #1f202f;
+      z-index: -1; }
+      @media (max-width: 800px) {
+        #about-page section#about .lazy:before {
+          display: none; } }
+  #about-page section#complications {
+    padding-bottom: 0;
+    margin-bottom: 6vmax;
+    background-color: #1f202f;
+    background-image: url(/img/dark-logo.svg);
+    background-position: right center;
+    background-repeat: no-repeat;
+    color: #fff; }
+    @media (max-width: 1260px) {
+      #about-page section#complications {
+        margin-bottom: 0; } }
+    #about-page section#complications .container {
+      transform: translateY(6vmax); }
+      @media (max-width: 1260px) {
+        #about-page section#complications .container {
+          transform: none; } }
+      #about-page section#complications .container .col p {
+        display: block;
+        height: calc(100% - 40px);
+        padding: 20px;
+        background: #F5E7E8;
+        color: #1f202f; }
+  #about-page section#plans .plans {
+    padding: 1vmax 0;
+    padding-left: 4vmax;
+    border-left: 2px solid #1f202f; }
+  #about-page section#between .lazy {
+    border-radius: 24rem 24rem 0 0; }
+  #about-page section#help .container {
+    position: relative; }
+    #about-page section#help .container .lazy {
+      width: 100%; }
+    #about-page section#help .container .row.absolute {
+      position: absolute;
+      width: 100%;
+      height: auto;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%); }
+      @media (max-width: 1900px) {
+        #about-page section#help .container .row.absolute {
+          position: relative;
+          top: unset;
+          left: unset;
+          transform: none; }
+          #about-page section#help .container .row.absolute .col {
+            margin-top: -10%; } }
+    @media (max-width: 1900px) and (max-width: 1260px) {
+      #about-page section#help .container .row.absolute .col {
+        margin-top: unset; } }
+      #about-page section#help .container .row.absolute .col {
+        background: rgba(245, 231, 232, 0.7);
+        -webkit-backdrop-filter: blur(5px);
+                backdrop-filter: blur(5px);
+        padding: .7vmax 2vmax; }

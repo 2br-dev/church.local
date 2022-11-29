@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	@@include('./parts/head.html', {title: 'Будем знакомы!', style_file: 'blog'})
+</head>
+<body>
+	@@include('./parts/header.html')
+	<main>
+		<div id="blog-page">
+			<section id="head">
+				<div class="blog-header">
+					<div class="lazy wallpaper" data-src="/img/blog/who-i-am.jpg">
+						<div class="container">
+							<div class="row no-margin flex vcenter">
+								<div class="col xl5 l6 m8 m2 offset-m2 s12">
+									<div class="lazy poster" data-src="/img/blog/who-i-am.jpg"></div>
+								</div>
+								<div class="col l5 offset-l1 m8 offset-m2 offset-xl1 align-center-l-down">
+									<div class="h1">Будем знакомы!</div>
+									<ul class="stats-wrapper">
+										<li class="stats white-text"><i class="mdi mdi-eye-outline"></i>16k</li>
+										<li class="stats white-text"><i class="mdi mdi-share"></i>400</li>
+										<li class="stats white-text"><i class="mdi mdi-comment-text-outline"></i>64</li>
+										<li class="stats white-text"><i class="mdi mdi-heart red-text"></i>278</li>
+										<li class="stats white-text"><i class="mdi mdi-bookmark blue-text"></i>1</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section id="blog-content">
+				<div class="container">
+					<div class="row">
+						<div class="col s12">
+							<h1>Моя история не имеет невероятных поворотов, не сопровождается падением звёзд и за нее не светит "Оскар".</h1>
+						</div>
+						<div class="col s12">
+							<div class="note">Пожелайте, чтобы кому-то повезло встретить вас, и вам повезет встретить кого-то. (с) Эрик Берн</div>
+						</div>
+					</div>
+					<div class="row flex vcenter">
+						<div class="col xl5 l6 m8 s12">
+							<img class="lazy h" data-src="/img/blog/who-i-am1.jpg">
+						</div>
+						<div class="col l6 offset-xl1 m12">
+							<p>За 30 дней на страничку подписались 1000 человек. Убежден, что части из всех я не интересен - пишу длинные тексты, нерегулярно, да еще и на религиозные темы. Но когда узнаёшь человека поближе - он становится интересным. Это как собирать марки или банкноты, или коллекционировать раритетные книги. За каждым предметом целая история. </p>
+							<p>Родился я в далеком году в сельской местности. На вопрос "кто вы по национальности" предпочитаю отвечать: "А с какой целью интересуетесь?". Ещё в школьные годы начал заниматься фотографией, да так ею проникся, что к окончанию школы поехал на общероссийский фотоконкурс. Проводил международные (Россия-Изиаиль) и персональные выставки (первая лет в 16 или 14 была в ДК села, где я жил). Второе мое увлечение - это КВН. Нет, не знаком я с Реввой или Галустяном. Но знаю других ребят из "Утомленных солнцем", да и нынешних фаворитов "Вышки" - тоже. </p>
+						</div>
+					</div>
+					<div class="row flex vcenter">
+						<div class="col l6 m12 order-m1">
+							<p>После школы родители хотели отдать меня в военное училище. Покровители - на исторический факультет. Но я поехал в семинарию)) (К слову, полностью и без сомнений меня в этом поддержал только нынешний тесть, а девушка, с которой я тогда встречался и хотел на ней жениться, готова была со мной расстаться из-за этого решения). В семинарии учился в Краснодаре, потом пошел на ступень выше - академия в СПБ. Ну и пришлось повышать квалификацию в аспирантуре в МСК. Светское образование ещё получаю. </p>
+							<p>Увлечение фотографией не оставил, оно переросло в целую арт-терапию для особенных ребят, а КВНовский опыт позволяет с улыбкой решать проблемы. Блог веду ради тех, кто верит в стереотипы, люблю их развеивать. Женат, воспитываем двоих сорванцов))) </p>
+						</div>
+						<div class="col xl5 l6 m8 s12 offset-xl1">
+							<div class="lazy h"data-src="/img/blog/who-i-am2.jpg"></div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col l8 offset-l2 m8 offset-m2 s12">
+							<div class="central-block">
+								Что еще интересно обо мне узнать - пишите в комментариях, на все отвечу!!! Рад буду, если сможете этим сообщением поделиться со знакомыми и призвать их подписаться на <a href="https://t.me/klimeslav">мой канал</a>, потому что сегодня здесь можно найти мир и спокойствие, несмотря ни на какие события в мире.
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section>
+				@@include('./parts/popular.html')
+			</section>
+			@@include('./parts/subscribe.html')
+		</div>
+	</main>
+	@@include('./parts/footer.html')
+	@@include('./parts/scripts.html')
+</body>
+</html>

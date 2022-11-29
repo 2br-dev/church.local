@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	@@include('./parts/head.html', {title: 'Страница не найдена', style_file: 'service'})
+</head>
+<body>
+	@@include('./parts/header.html')
+	<main>
+		<div id="service">
+			<div class="icon-wrapper">
+				<div class="icon lazy" id="in-progress-icon" data-src="/img/404.svg"></div>
+				<h1>Страница не найдена!</h1>
+				<hr>
+				Попробуйте начать поиск <a href="/">с главной</a>. <br>
+				Если вы уверены, что это ошибка, пожалуйста, <br> <a href="mailto:admin@website.domain?subject=Не найдена страница">сообщите администратору.</a>
+			</div>
+		</div>
+	</main>
+	@@include('./parts/footer.html')
+	@@include('./parts/modals/send-note.html')
+	@@include('./parts/scripts.html')
+</body>
+</html>

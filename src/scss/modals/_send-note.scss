@@ -1,0 +1,270 @@
+#send-note{
+
+	transition: background-color .6s, color .6s;
+
+	& .modal-header{
+
+		display: flex;
+		align-items: center;
+
+		& h3{
+			margin: 0;
+			flex-grow: 1;
+		}
+
+		& a{
+			font-size: 32px;
+			color: $text;
+		}
+
+		margin-bottom: 1vmax;
+	}
+
+	& .section-name{
+
+		margin-bottom: 1vmax;
+		display: flex;
+
+		& h4{
+			margin: 0;
+			flex-grow: 1;
+
+		}
+		& .actions{
+
+			& a{
+				font-size: 21px;
+				padding: 0 3px;
+			}
+		}
+	}
+
+	& .note-wrapper{
+
+		display: flex;
+		flex-wrap: nowrap;
+		position: relative;
+		background-image: url(/img/cross.svg);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: contain;
+		overflow: hidden;
+	
+		& .note-service{
+			width: 40%;
+			flex-grow: 1;
+			display: flex;
+			flex-direction: column;
+			transition: opacity .4s;
+
+			&.invisible{
+
+				@media(max-width: $large){
+					opacity: 0;
+				}
+			}
+
+			& .preys-wrapper{
+
+				max-height: 400px;
+				flex-grow: 1;
+
+				& ul{
+					margin: 0;
+
+					& li{
+
+						display: flex;
+						padding: 5px;
+
+						&:hover{
+							background: rgba($text, .1);
+						}
+
+						&:nth-child(odd){
+							background: rgba($text, .04);
+
+							&:hover{
+								background: rgba($text, .1);
+							}
+						}
+
+						& .check-field{
+							flex-grow: 1;
+
+							& label{
+								padding-top: 10px;
+								padding-bottom: 10px;
+							}
+						}
+					}
+				}
+			}
+
+			& .prey-type-selector{
+				display: flex;
+				border-top: 1px solid rgba($text, .3);
+
+				& .check-field{
+					flex-grow: 1;
+					padding: .5vmax 0;
+				}
+			}
+		}
+
+		& .note-separator{
+			@media(min-width: $large){
+				display: block;
+				width: 40px;
+				position: relative;
+
+				&:before{
+					content: '';
+					display: block;
+					width: 0;
+					height: 100%;
+					top: 0;
+					left: 50%;
+					position: absolute;
+					border-left: 1px solid rgba($text, .3);
+				}
+			}
+		}
+
+		& .note-names{
+
+			width: 40%;
+			flex-grow: 1;
+
+			& h4.name{
+
+				@media(max-width: $large){
+					cursor: pointer;
+					color: $text;
+
+					&:before{
+						content: '‹ ';
+					}
+				}
+			}
+
+			& .names-wrapper{
+				max-height: 400px;
+				overflow: auto;
+				padding-right: 10px;
+
+				& .input-field{
+					padding-top: 0;
+					counter-increment: my_increment;
+
+					& .prefix{
+
+						&:before{
+							content: counter(my_increment)".";
+						}
+					}
+				}
+			}
+		}
+
+		@media(max-width: $large){
+
+			& .note-names{
+
+				position: absolute;
+				top: 0;
+				width: 100%;
+				height: 100%;
+				z-index: 2;
+				transition: left .6s;
+				left: 100%;
+
+				&.visible{
+					left: 0;
+				}
+
+				& .names-wrapper{
+					max-height: unset;
+					height: calc(100% - 40px);
+				}
+			}
+		}
+	}
+
+	&.rest{
+
+		background-color: $text;
+		color: $paper;
+
+		& a:not(.bttn){
+			color: $text;
+		}
+
+		& input[type="radio"]{
+
+			& ~ label:after{
+				background-color: $paper;
+			}
+		}
+
+		& .input-field{
+			border-bottom: 1px solid $paper;
+
+			& input{
+				color: $paper;
+			}
+		}
+
+		& .note-separator{
+			
+			&:before{
+				border-color: rgba($paper, .2);
+			}
+		}
+
+		& .note-wrapper{
+
+			& .note-service{
+
+				& .prey-type-selector{
+					border-top: 1px solid rgba($paper, .3);
+				}
+			}
+		}
+
+		& .preys-wrapper{
+
+			& li{
+
+				&:nth-child(odd){
+					background-color: rgba(darken($text, 10), .1) !important;
+
+					&:hover{
+						background-color: rgba(darken($text, 10), .2) !important;
+					}
+				}
+
+				&:hover{
+					background-color: rgba(darken($text, 10), .2) !important;
+				}
+			}
+
+
+		}
+
+		& *{
+	
+			&::-webkit-scrollbar{
+				background: rgba($paper, .1);
+				width: 8px;
+				border-radius: 4px;
+			}
+	
+			&::-webkit-scrollbar-thumb{
+				background: rgba($paper, .3);
+				border-radius: 4px;
+			}
+		}
+	}
+
+}

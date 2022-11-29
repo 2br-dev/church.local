@@ -1,0 +1,53 @@
+[
+	{
+		"date": "12 апреля 2023 г.",
+		"name": "Концерт христианского рока",
+		"intro": "• Skillet   • Чёрный кофе   • Petra   • Алиса",
+		"action": {
+			"name": "Купить билет",
+			"url": "https://google.com"
+		},
+		"poster": "rock_poster.jpg",
+		"background": "rock_background.jpg"
+	},
+	{
+		"date": "18 апреля 2023 г.",
+		"name": "Духовные беседы №6",
+		"intro": "Более подробную информацию Вы можете узнать на официальном сайте Телеканала \"Гродно Плюс\" ",
+		"action": {
+			"name": "Смотреть",
+			"url": "https://www.youtube.com/watch?v=I4Ous47614Q"
+		},
+		"poster": "pavel_poster.jpg",
+		"background": "pavel_background.jpg"
+	},
+	{
+		"date": "14 марта 2023 г.",
+		"name": "День православной книги",
+		"intro": "Праздник Русской православной церкви, приуроченный к дате выпуска первой на Руси печатной книги Ивана Фёдорова «Апостол»",
+		"poster": "book_poster.jpg",
+		"background": "book_background.jpg"
+	},
+	{
+		"date": "12 апреля 2023 г.",
+		"name": "Начало Великого поста",
+		"intro": "Подготовка христианина к празднованию Пасхи; соответствующий период литургического года, отмеченный в богослужении…",
+		"action": {
+			"name": "Читать далее",
+			"url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D1%81%D1%82"
+		},
+		"poster": "post_poster.jpg",
+		"background": "post_background.jpg"
+	},
+	{
+		"date": "12 апреля 2023 г.",
+		"name": "Светлое Воскресение Христово",
+		"intro": "Светлый праздник Воскресения Христова. Христос воскресе! Воистину воскресе!",
+		"action": {
+			"name": "Схождение Благодатного огня",
+			"url": "https://www.youtube.com/watch?v=EfUASCpFD-k"
+		},
+		"poster": "voskresenie_poster.jpg",
+		"background": "voskresenie_background.jpg"
+	}
+]

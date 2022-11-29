@@ -1,0 +1,15 @@
+// Import frameworks
+@import './framework/materialdesignicons';
+@import './framework/materialize';
+@import './framework/swiper_bundle';
+
+// Import parts
+@import './parts/media';
+@import './parts/custom_grid';
+@import './parts/typography';
+@import './parts/helpers';
+@import './parts/header';
+@import './parts/footer';
+
+// Import modals
+@import './modals/send-note';

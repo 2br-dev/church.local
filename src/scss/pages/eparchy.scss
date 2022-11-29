@@ -1,0 +1,42 @@
+@import '../parts/media';
+@import '../parts/typography';
+
+#eparchy-page{
+	
+	& section{
+
+		&#before{
+
+			& .container{
+				position: relative;
+
+				& .row{
+	
+					&#before-text{
+						
+						@media(min-width: $extra-large){
+							position: absolute;
+							top: calc(100% - 20vmax);
+
+							& .col{
+								background: rgba($paper, .8);
+								backdrop-filter: blur(6px);
+							}
+						}
+					}
+				}
+			}
+		}
+
+		& #senat-wrapper{
+
+			display: flex;
+			flex-wrap: wrap;
+			align-items: baseline;
+
+			& #senat{
+				aspect-ratio: 2.5 / 1;
+			}
+		}
+	}
+}

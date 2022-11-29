@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	@@include('./parts/head.html', {title: 'Блог', style_file: 'blog'})
+</head>
+<body>
+	@@include('./parts/header.html')
+	<main>
+		<div id="blog-page">
+			<div class="blog-header">
+				<div class="lazy wallpaper" data-src="/img/blog/poster.jpg">
+					<div class="container">
+						<div class="row no-margin">
+							<div class="col xl5 l6 m8 m2 offset-m2 s12">
+								<div class="lazy poster" data-src="/img/blog/poster.jpg"></div>
+							</div>
+							<div class="col l5 offset-l1 m8 offset-m2 offset-xl1 align-center-l-down">
+								<h1>Блог</h1>
+								<h2>Столетие мучеников Иоанна Ковшаров и 64-летие образования пос. Краснодарский</h2>
+								<a href="/celebrate.html" class="bttn-white">Подробнее</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="toolbar">
+					<div class="hide-l-up">
+						<ul class="mobile-tags">
+							<li>
+								<a href=""><i class="mdi mdi-dots-vertical"></i><span class="current">Все записи</span></a>
+								<ul class="tags z-depth-1">
+									<li><a href="">Все записи</a></li>
+									<li><a href="">Колонка настоятеля</a></li>
+									<li><a href="">Из жизни храма</a></li>
+									<li><a href="">Размышлизмы</a></li>
+									<li><a href="">Истории</a></li>
+									<li><a href="">События</a></li>
+									<li><a href="">Курилка</a></li>								
+								</ul>
+							</li>
+						</ul>
+					</div>
+					<ul class="hide-l-down">
+						<li><a class="active" href="">Все записи</a></li>
+						<li><a href="">Колонка настоятеля</a></li>
+						<li><a href="">Из жизни храма</a></li>
+						<li><a href="">Размышлизмы</a></li>
+						<li><a href="">Истории</a></li>
+						<li><a href="">События</a></li>
+						<li><a href="">Курилка</a></li>
+					</ul>
+					<div class="separator"></div>
+					<div class="search-field"><input type="text" placeholder="Поиск"><i class="mdi mdi-magnify"></i></div>
+				</div>
+			</div>
+			<div class="blog-list">
+				<div class="container">
+					@@loop('./parts/blog-card.html', './data/blog_top.json')
+				</div>
+				<div class="popular">
+					<div class="popular-content">
+						<div class="container">
+							<div class="swiper" id="blog-popular">
+								<div class="swiper-wrapper">
+									@@loop('./parts/blog-slide.html', './data/blog_popular.json')
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="container">
+					@@loop('./parts/blog-card.html', './data/blog_bottom.json')
+				</div>
+				<ul class="pagination">
+					<li><a href="">1</a></li>
+					<li class="dots"><span>…</span></li>
+					<li class="active"><a href="">12</a></li>
+					<li><a href="">13</a></li>
+					<li><a href="">14</a></li>
+					<li class="dots"><span>…</span></li>
+					<li><a href="">40</a></li>
+				</ul>
+			</div>
+		</div>
+	</main>
+	@@include('./parts/footer.html')
+	@@include('./parts/scripts.html')
+</body>
+</html>
