@@ -18,7 +18,7 @@ const server = browserSync.init({
 gulp.task('html', () => {
 	return gulp.src('./src/html/*.html')
 		.pipe(include())
-		.pipe(gulp.dest('./release/'))
+		.pipe(gulp.dest('./release/static_html/'))
 		.pipe(server.stream())
 });
 

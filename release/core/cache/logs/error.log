@@ -1,0 +1,732 @@
+[2022-11-30 11:04:46] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:04:46] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:04:46] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:04:51] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:04:51] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:04:51] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:04:57] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:04:57] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:01] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:01] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:07] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:07] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:07] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:07] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:17] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:17] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:24] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:24] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:28] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:28] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:28] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:28] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:31] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:31] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:35] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:35] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:35] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:35] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:42] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:05:42] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:06:14] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:06:14] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:06:18] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:06:18] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:06:28] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:06:28] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:06:28] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:06:28] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:06:48] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:06:48] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:06:51] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:06:51] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:06:55] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:06:55] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:06:55] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:06:55] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:07:06] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:07:06] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:07:16] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:07:16] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:07:26] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:07:26] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:07:35] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:07:35] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:07:44] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:07:44] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:07:56] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:07:56] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:08:00] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:08:00] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:08:04] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:08:04] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:08:04] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:08:04] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:08:14] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:08:14] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:09:18] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modx.class.php : 2512) Could not set the locale. Please check if the locale ut8.ru_RU exists on your system
+[2022-11-30 11:09:27] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modx.class.php : 2512) Could not set the locale. Please check if the locale ru_RU.utf exists on your system
+[2022-11-30 11:23:04] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:04] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:04] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:04] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:06] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:06] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:06] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:06] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:09] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:09] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:14] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:14] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:23] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:23] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:23] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:23] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:34] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 11:23:34] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:04] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:04] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:04] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:04] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:04] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:04] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:06] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:06] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:06] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:06] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:15] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:15] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:18] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:18] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:22] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:22] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:22] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:22] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:40] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:40] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:51] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:51] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:51] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:10:51] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:14:12] (ERROR in modProcessor::run @ D:\Projects\Hosts\church.local\release\core\model\modx\modprocessor.class.php : 185) Flat file processor support, used for action mgr/resource/changetemplate with path D:/Projects/Hosts/church.local/release/core/components/batcher/processors/mgr/resource/changetemplate.php, is deprecated since version 2.7.0. 
+[2022-11-30 12:23:10] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:23:10] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:23:10] (ERROR in xPDO::getService @ D:\Projects\Hosts\church.local\release\core\xpdo\xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:23:10] (ERROR in modRestCurlClient::__construct @ D:\Projects\Hosts\church.local\release\core\model\modx\rest\modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2022-11-30 12:31:45] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:31:47] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 12:33:03] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name wf.text.
+[2022-11-30 14:20:59] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name proResources.
+[2022-11-30 14:20:59] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name proResources.
+[2022-11-30 14:20:59] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name proResources.
+[2022-11-30 14:20:59] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name proResources.
+[2022-11-30 14:20:59] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name proResources.
+[2022-11-30 14:20:59] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name proResources.
+[2022-11-30 14:22:20] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name proResources.
+[2022-11-30 14:22:20] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name proResources.
+[2022-11-30 14:22:20] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name proResources.
+[2022-11-30 14:22:20] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name proResources.
+[2022-11-30 14:22:20] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name proResources.
+[2022-11-30 14:22:20] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name proResources.
+[2022-11-30 14:22:32] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name proResources.
+[2022-11-30 14:22:32] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name proResources.
+[2022-11-30 14:22:32] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name proResources.
+[2022-11-30 14:34:06] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'church_db.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2022-11-30 14:34:06] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'church_db.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2022-11-30 14:34:06] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'church_db.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2022-11-30 14:34:07] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'church_db.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2022-11-30 14:34:10] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'church_db.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2022-11-30 14:34:10] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'church_db.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2022-11-30 14:38:52] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'church_db.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2022-11-30 14:38:52] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'church_db.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2022-11-30 14:38:52] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'church_db.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2022-11-30 15:51:30] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name tv.img.
+[2022-11-30 15:51:30] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name tv.img.
+[2022-11-30 15:51:30] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name tv.img.
+[2022-11-30 15:51:30] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name tv.img.
+[2022-11-30 15:51:30] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name tv.img.
+[2022-11-30 15:51:31] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name tv.img.
+[2022-11-30 15:51:31] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name tv.img.
+[2022-11-30 15:51:31] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name tv.img.
+[2022-11-30 15:52:22] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name tv.img.
+[2022-11-30 15:52:54] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name tv.img.
+[2022-11-30 16:00:08] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 165) phpThumb was unable to generate a thumbnail for: D:\Projects\Hosts\church.local\release\core\cache\phpthumb\church.local__srcd22925ec9968d924fa826af6840286c6_pare23411d0821ae56bf50a1f79d182c074_dat1669289309.png
+[2022-11-30 16:00:08] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 177) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 647
+[2022-11-30 16:00:08] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 165) phpThumb was unable to generate a thumbnail for: D:\Projects\Hosts\church.local\release\core\cache\phpthumb\church.local__src09072adb1c23b4b3a41475d97338d19a_pare23411d0821ae56bf50a1f79d182c074_dat1669289291.png
+[2022-11-30 16:00:08] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 177) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 647
+[2022-11-30 16:00:08] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 165) phpThumb was unable to generate a thumbnail for: D:\Projects\Hosts\church.local\release\core\cache\phpthumb\church.local__src2f537c02f1640dd5c4cbb037f7ac98b0_pare23411d0821ae56bf50a1f79d182c074_dat1669289354.png
+[2022-11-30 16:00:08] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 177) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 647
+[2022-11-30 16:00:08] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 165) phpThumb was unable to generate a thumbnail for: D:\Projects\Hosts\church.local\release\core\cache\phpthumb\church.local__srcb4e930f49029317ed884228fe5cc4321_pare23411d0821ae56bf50a1f79d182c074_dat1669289237.png
+[2022-11-30 16:00:08] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 177) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 647
+[2022-11-30 16:00:09] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 165) phpThumb was unable to generate a thumbnail for: D:\Projects\Hosts\church.local\release\core\cache\phpthumb\church.local__src471dbf66b2a43e1db1c019cb2e8a9384_pare23411d0821ae56bf50a1f79d182c074_dat1669289382.png
+[2022-11-30 16:00:09] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 165) phpThumb was unable to generate a thumbnail for: D:\Projects\Hosts\church.local\release\core\cache\phpthumb\church.local__src7c5aca1c03b05fd8e738264d31fbb184_pare23411d0821ae56bf50a1f79d182c074_dat1669289446.png
+[2022-11-30 16:00:09] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 177) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 647
+[2022-11-30 16:00:09] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 165) phpThumb was unable to generate a thumbnail for: D:\Projects\Hosts\church.local\release\core\cache\phpthumb\church.local__src8f4518f57fe3c641d0e0c22616480e2e_pare23411d0821ae56bf50a1f79d182c074_dat1669289408.png
+[2022-11-30 16:00:09] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 177) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 647
+[2022-11-30 16:00:09] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 165) phpThumb was unable to generate a thumbnail for: D:\Projects\Hosts\church.local\release\core\cache\phpthumb\church.local__src9d1416aa6ea81c7be7d7352a859dc6aa_pare23411d0821ae56bf50a1f79d182c074_dat1669289324.png
+[2022-11-30 16:00:09] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 177) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 647
+[2022-11-30 16:00:09] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 165) phpThumb was unable to generate a thumbnail for: D:\Projects\Hosts\church.local\release\core\cache\phpthumb\church.local__srcc26ed27d97ecd0f296af65dcfb2c7bfd_parfe63e9239bc49e2fae6900079200047d_dat1667197485.png
+[2022-11-30 16:00:09] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\phpthumb\modphpthumb.class.php : 177) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 647
+[2022-11-30 16:21:24] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_site_content` (`type`, `contentType`, `pagetitle`, `longtitle`, `description`, `alias`, `alias_visible`, `link_attributes`, `published`, `pub_date`, `unpub_date`, `parent`, `isfolder`, `introtext`, `content`, `richtext`, `template`, `menuindex`, `searchable`, `cacheable`, `createdby`, `createdon`, `editedby`, `editedon`, `deleted`, `deletedon`, `deletedby`, `publishedon`, `publishedby`, `menutitle`, `donthit`, `privateweb`, `privatemgr`, `content_dispo`, `hidemenu`, `class_key`, `context_key`, `content_type`, `uri`, `uri_override`, `hide_children_in_tree`, `show_in_tree`) VALUES ('document', 'text/html', 'Как в Норвегии', 'Достаточно ли в России батюшек?', '', 'kak-v-norvegii', 1, '', 0, 0, 0, 16, 0, '', '<div class=\"container\">\r\n	<div class=\"row\">\r\n		<div class=\"col s12\">\r\n			<h1>[[*longtitle]]</h1>\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col xl5 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/stats.jpg\">\r\n		</div>\r\n		<div class=\"col l6 offset-xl1 m12\">\r\n			<p>По данным <a href=\"https://www.kathimerini.gr/society/994608/ellada-i-chora-toy-ayxanesthe-kai-plithynesthe-gia-toys-iereis/\">источника</a> в России на 100.000 жителей в среднем почти 28 священников. Это в 1.5-3 раза меньше, чем в большинстве стран Европы. Столько же разве что в Норвегии. А меньше – в Германии, Голландии, Болгарии. </p>\r\n			<p>То есть получается, что каждому православному священнику в России нужно ежедневно общаться с 11 разными, незнакомыми людьми. Не повторяясь аж в течение года… Чтоб хотя б раз побеседовать с каждым и всех выслушать.  А сколько занимает время беседы? У меня лично уходит от 20 минут до 2 часов на человека. Прибавьте 2 часа служб утром и 2 – вечером. А ещё домашняя молитва, общественная нагрузка. 4047 человек в год… Я даже открыл телефонную книгу. У меня там за 7 лет служения скопилось 4168 контактов (это примерно по 3 новых каждые 2 дня). </p>\r\n			<p>Моё микро исследование, на научную достоверность не претендую, взял данные из открытых источников. И так как крупнейшие федеральные СМИ недоступны из-за взлома – пришлось обратиться даже к Википедии. А начну вот с чего – попалась мне тут [карта числа священнослужителей](https://t.me/mapsanddata/1520) в разных странах на душу населения (на 100 тысяч человек).</p>\r\n		</div>\r\n	</div>\r\n	<div class=\"row flex vcenter\">\r\n		<div class=\"col l6 m12 order-m1\">\r\n			<p>Первое место заняла 🇬🇷 Греция – 87,7 священника на 100,000 жителей. В тройке лидеров 🇮🇹 Италия (82,8) и  🇷🇴 Румыния (80,1). Замыкают ТОП 5 🇵🇱 Польша – (71,1) и 🇧🇪 Бельгия – (64,1). Напомню, что 🇷🇺 Россия (27,9) стоит рядом с \"атеистической\" Норвегией (до 72% населения Норвегии считают себя атеистами). Кто-то считает такие цифры (про Россию) сильно заниженными. Что ж, давайте разберёмся. Первая загвоздка – мне не удалось быстро найти статистику по числу православных священников именно в России. </p>\r\n			<p>На 2019 год 35 677 священников на всю юрисдикцию Русской Православной Церкви (17 стран, 7 из них в Википедии отмечены как \"оспариваемые\"). Это не считая дьяконов. Не умаляя их достоинства скажу, что нагрузка на них как правило в разы меньше, и в основном она технического или полу административного характера, то есть общаться с людьми и раздавать советы им почти не приходится. </p>\r\n		</div>\r\n		<div class=\"col xl5 offset-xl1 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/like-norway.jpg\">\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col align-center-m-up l6 offset-l3 m8 order-m4\">\r\n			<div class=\"central-block\">\r\n				Но даже если разделить 144.4 млн человек (официальное население РФ на 2019 г.) на это число, то выйдет по 1 священнику на каждые 4047 чел, или 24.7 священника на 100.000 человек. Даже не 29.7, а на пятерых меньше.\r\n			</div>\r\n			<p>Для сравнения – учителей в тот же 2019 год в РФ 1 млн 83 тыс человек (или 750 на 100.000 человек). Врачей на 2019 – 703 700 человек (плюс 1.491.400 среднего мед персонала) или 487 врачей на 100.000 человек. Хочется шутливо вспомнить любую поликлинику. Психологов на 2019 г. – до 25.000 человек (по словам президента Российской академии образования (РАО) Юрия Зинченко, официальной статистики я не нашёл). По психологам сложно комментировать – ведь есть психиатры, психотерапевты, клинические психологи, те кто считает себя психологом после получения сертификата Инстаграм. Непонятно, о ком говорил Юрий Зинченко. </p>\r\n		</div>\r\n	</div>\r\n</div>', 1, 4, 5, 1, 1, 1, 1669814484, 0, 0, 0, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 'modDocument', 'web', 1, 'kak-v-norvegii.html', 0, 0, 1)
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect string value: '\xF0\x9F\x87\xAC\xF0\x9F...' for column 'content' at row 1
+)
+
+[2022-11-30 16:21:32] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_site_content` (`type`, `contentType`, `pagetitle`, `longtitle`, `description`, `alias`, `alias_visible`, `link_attributes`, `published`, `pub_date`, `unpub_date`, `parent`, `isfolder`, `introtext`, `content`, `richtext`, `template`, `menuindex`, `searchable`, `cacheable`, `createdby`, `createdon`, `editedby`, `editedon`, `deleted`, `deletedon`, `deletedby`, `publishedon`, `publishedby`, `menutitle`, `donthit`, `privateweb`, `privatemgr`, `content_dispo`, `hidemenu`, `class_key`, `context_key`, `content_type`, `uri`, `uri_override`, `hide_children_in_tree`, `show_in_tree`) VALUES ('document', 'text/html', 'Как в Норвегии', 'Достаточно ли в России батюшек?', '', 'kak-v-norvegii', 1, '', 0, 0, 0, 16, 0, '', '<div class=\"container\">\r\n	<div class=\"row\">\r\n		<div class=\"col s12\">\r\n			<h1>[[*longtitle]]</h1>\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col xl5 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/stats.jpg\">\r\n		</div>\r\n		<div class=\"col l6 offset-xl1 m12\">\r\n			<p>По данным <a href=\"https://www.kathimerini.gr/society/994608/ellada-i-chora-toy-ayxanesthe-kai-plithynesthe-gia-toys-iereis/\">источника</a> в России на 100.000 жителей в среднем почти 28 священников. Это в 1.5-3 раза меньше, чем в большинстве стран Европы. Столько же разве что в Норвегии. А меньше – в Германии, Голландии, Болгарии. </p>\r\n			<p>То есть получается, что каждому православному священнику в России нужно ежедневно общаться с 11 разными, незнакомыми людьми. Не повторяясь аж в течение года… Чтоб хотя б раз побеседовать с каждым и всех выслушать.  А сколько занимает время беседы? У меня лично уходит от 20 минут до 2 часов на человека. Прибавьте 2 часа служб утром и 2 – вечером. А ещё домашняя молитва, общественная нагрузка. 4047 человек в год… Я даже открыл телефонную книгу. У меня там за 7 лет служения скопилось 4168 контактов (это примерно по 3 новых каждые 2 дня). </p>\r\n			<p>Моё микро исследование, на научную достоверность не претендую, взял данные из открытых источников. И так как крупнейшие федеральные СМИ недоступны из-за взлома – пришлось обратиться даже к Википедии. А начну вот с чего – попалась мне тут [карта числа священнослужителей](https://t.me/mapsanddata/1520) в разных странах на душу населения (на 100 тысяч человек).</p>\r\n		</div>\r\n	</div>\r\n	<div class=\"row flex vcenter\">\r\n		<div class=\"col l6 m12 order-m1\">\r\n			<p>Первое место заняла 🇬🇷 Греция – 87,7 священника на 100,000 жителей. В тройке лидеров 🇮🇹 Италия (82,8) и  🇷🇴 Румыния (80,1). Замыкают ТОП 5 🇵🇱 Польша – (71,1) и 🇧🇪 Бельгия – (64,1). Напомню, что 🇷🇺 Россия (27,9) стоит рядом с \"атеистической\" Норвегией (до 72% населения Норвегии считают себя атеистами). Кто-то считает такие цифры (про Россию) сильно заниженными. Что ж, давайте разберёмся. Первая загвоздка – мне не удалось быстро найти статистику по числу православных священников именно в России. </p>\r\n			<p>На 2019 год 35 677 священников на всю юрисдикцию Русской Православной Церкви (17 стран, 7 из них в Википедии отмечены как \"оспариваемые\"). Это не считая дьяконов. Не умаляя их достоинства скажу, что нагрузка на них как правило в разы меньше, и в основном она технического или полу административного характера, то есть общаться с людьми и раздавать советы им почти не приходится. </p>\r\n		</div>\r\n		<div class=\"col xl5 offset-xl1 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/like-norway.jpg\">\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col align-center-m-up l6 offset-l3 m8 order-m4\">\r\n			<div class=\"central-block\">\r\n				Но даже если разделить 144.4 млн человек (официальное население РФ на 2019 г.) на это число, то выйдет по 1 священнику на каждые 4047 чел, или 24.7 священника на 100.000 человек. Даже не 29.7, а на пятерых меньше.\r\n			</div>\r\n			<p>Для сравнения – учителей в тот же 2019 год в РФ 1 млн 83 тыс человек (или 750 на 100.000 человек). Врачей на 2019 – 703 700 человек (плюс 1.491.400 среднего мед персонала) или 487 врачей на 100.000 человек. Хочется шутливо вспомнить любую поликлинику. Психологов на 2019 г. – до 25.000 человек (по словам президента Российской академии образования (РАО) Юрия Зинченко, официальной статистики я не нашёл). По психологам сложно комментировать – ведь есть психиатры, психотерапевты, клинические психологи, те кто считает себя психологом после получения сертификата Инстаграм. Непонятно, о ком говорил Юрий Зинченко. </p>\r\n		</div>\r\n	</div>\r\n</div>', 1, 4, 5, 1, 1, 1, 1669814492, 0, 0, 0, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 'modDocument', 'web', 1, 'kak-v-norvegii.html', 0, 0, 1)
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect string value: '\xF0\x9F\x87\xAC\xF0\x9F...' for column 'content' at row 1
+)
+
+[2022-11-30 16:22:17] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_register_messages` (`topic`, `id`, `created`, `valid`, `accesses`, `expires`, `payload`, `kill`) VALUES (2, '638758e7d665e8.37113211', '2022-11-30 16:22:17', '1970-01-01 03:00:00', 0, 1669814837, 'if (time() > 1669814837) return null;\nreturn array (\n  \'pagetitle\' => \'Как в Норвегии\',\n  \'longtitle\' => \'Достаточно ли в России батюшек?\',\n  \'description\' => \'\',\n  \'introtext\' => \'\',\n  \'template\' => \'4\',\n  \'alias\' => \'\',\n  \'menutitle\' => \'\',\n  \'link_attributes\' => \'\',\n  \'hidemenu\' => \'0\',\n  \'published\' => \'0\',\n  \'id\' => \'\',\n  \'type\' => \'document\',\n  \'context_key\' => \'web\',\n  \'content\' => \'\',\n  \'create-resource-token\' => \'638758e7d665e8.37113211\',\n  \'reloaded\' => \'1\',\n  \'parent\' => \'0\',\n  \'parent-original\' => \'0\',\n  \'parent-cmb\' => \'\',\n  \'class_key\' => \'modDocument\',\n  \'content_type\' => \'1\',\n  \'content_dispo\' => \'0\',\n  \'menuindex\' => \'0\',\n  \'publishedon\' => \'\',\n  \'pub_date\' => \'\',\n  \'unpub_date\' => \'\',\n  \'isfolder\' => \'0\',\n  \'searchable\' => \'1\',\n  \'alias_visible\' => \'1\',\n  \'richtext\' => \'1\',\n  \'uri_override\' => \'0\',\n  \'uri\' => \'\',\n  \'cacheable\' => \'1\',\n  \'syncsite\' => \'1\',\n  \'deleted\' => \'0\',\n  \'tvs\' => \'1\',\n  \'tv4\' => \'\',\n  \'tv1\' => \'\',\n  \'tv2\' => \'\',\n  \'tv3\' => \'\',\n  \'tvbrowser3\' => \'\',\n  \'ta\' => \'<div class=\"container\">\r\n	<div class=\"row\">\r\n		<div class=\"col s12\">\r\n			<h1>[[*longtitle]]</h1>\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col xl5 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/stats.jpg\">\r\n		</div>\r\n		<div class=\"col l6 offset-xl1 m12\">\r\n			<p>По данным <a href=\"https://www.kathimerini.gr/society/994608/ellada-i-chora-toy-ayxanesthe-kai-plithynesthe-gia-toys-iereis/\">источника</a> в России на 100.000 жителей в среднем почти 28 священников. Это в 1.5-3 раза меньше, чем в большинстве стран Европы. Столько же разве что в Норвегии. А меньше – в Германии, Голландии, Болгарии. </p>\r\n			<p>То есть получается, что каждому православному священнику в России нужно ежедневно общаться с 11 разными, незнакомыми людьми. Не повторяясь аж в течение года… Чтоб хотя б раз побеседовать с каждым и всех выслушать.  А сколько занимает время беседы? У меня лично уходит от 20 минут до 2 часов на человека. Прибавьте 2 часа служб утром и 2 – вечером. А ещё домашняя молитва, общественная нагрузка. 4047 человек в год… Я даже открыл телефонную книгу. У меня там за 7 лет служения скопилось 4168 контактов (это примерно по 3 новых каждые 2 дня). </p>\r\n			<p>Моё микро исследование, на научную достоверность не претендую, взял данные из открытых источников. И так как крупнейшие федеральные СМИ недоступны из-за взлома – пришлось обратиться даже к Википедии. А начну вот с чего – попалась мне тут [карта числа священнослужителей](https://t.me/mapsanddata/1520) в разных странах на душу населения (на 100 тысяч человек).</p>\r\n		</div>\r\n	</div>\r\n	<div class=\"row flex vcenter\">\r\n		<div class=\"col l6 m12 order-m1\">\r\n			<p>Первое место заняла 🇬🇷 Греция – 87,7 священника на 100,000 жителей. В тройке лидеров 🇮🇹 Италия (82,8) и  🇷🇴 Румыния (80,1). Замыкают ТОП 5 🇵🇱 Польша – (71,1) и 🇧🇪 Бельгия – (64,1). Напомню, что 🇷🇺 Россия (27,9) стоит рядом с \"атеистической\" Норвегией (до 72% населения Норвегии считают себя атеистами). Кто-то считает такие цифры (про Россию) сильно заниженными. Что ж, давайте разберёмся. Первая загвоздка – мне не удалось быстро найти статистику по числу православных священников именно в России. </p>\r\n			<p>На 2019 год 35 677 священников на всю юрисдикцию Русской Православной Церкви (17 стран, 7 из них в Википедии отмечены как \"оспариваемые\"). Это не считая дьяконов. Не умаляя их достоинства скажу, что нагрузка на них как правило в разы меньше, и в основном она технического или полу административного характера, то есть общаться с людьми и раздавать советы им почти не приходится. </p>\r\n		</div>\r\n		<div class=\"col xl5 offset-xl1 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/like-norway.jpg\">\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col align-center-m-up l6 offset-l3 m8 order-m4\">\r\n			<div class=\"central-block\">\r\n				Но даже если разделить 144.4 млн человек (официальное население РФ на 2019 г.) на это число, то выйдет по 1 священнику на каждые 4047 чел, или 24.7 священника на 100.000 человек. Даже не 29.7, а на пятерых меньше.\r\n			</div>\r\n			<p>Для сравнения – учителей в тот же 2019 год в РФ 1 млн 83 тыс человек (или 750 на 100.000 человек). Врачей на 2019 – 703 700 человек (плюс 1.491.400 среднего мед персонала) или 487 врачей на 100.000 человек. Хочется шутливо вспомнить любую поликлинику. Психологов на 2019 г. – до 25.000 человек (по словам президента Российской академии образования (РАО) Юрия Зинченко, официальной статистики я не нашёл). По психологам сложно комментировать – ведь есть психиатры, психотерапевты, клинические психологи, те кто считает себя психологом после получения сертификата Инстаграм. Непонятно, о ком говорил Юрий Зинченко. </p>\r\n		</div>\r\n	</div>\r\n</div>\',\n  \'action\' => \'resource/reload\',\n  \'reloadOnly\' => \'true\',\n  \'resource_groups\' => \'[]\',\n);\n', 0)
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect string value: '\xF0\x9F\x87\xAC\xF0\x9F...' for column 'payload' at row 1
+)
+
+[2022-11-30 16:22:17] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\registry\moddbregister.class.php : 292) Could not send message to queue 2, topic /resourcereload/. Message payload is Array
+(
+    [638758e7d665e8.37113211] => Array
+        (
+            [pagetitle] => Как в Норвегии
+            [longtitle] => Достаточно ли в России батюшек?
+            [description] => 
+            [introtext] => 
+            [template] => 4
+            [alias] => 
+            [menutitle] => 
+            [link_attributes] => 
+            [hidemenu] => 0
+            [published] => 0
+            [id] => 
+            [type] => document
+            [context_key] => web
+            [content] => 
+            [create-resource-token] => 638758e7d665e8.37113211
+            [reloaded] => 1
+            [parent] => 0
+            [parent-original] => 0
+            [parent-cmb] => 
+            [class_key] => modDocument
+            [content_type] => 1
+            [content_dispo] => 0
+            [menuindex] => 0
+            [publishedon] => 
+            [pub_date] => 
+            [unpub_date] => 
+            [isfolder] => 0
+            [searchable] => 1
+            [alias_visible] => 1
+            [richtext] => 1
+            [uri_override] => 0
+            [uri] => 
+            [cacheable] => 1
+            [syncsite] => 1
+            [deleted] => 0
+            [tvs] => 1
+            [tv4] => 
+            [tv1] => 
+            [tv2] => 
+            [tv3] => 
+            [tvbrowser3] => 
+            [ta] => <div class="container">
+	<div class="row">
+		<div class="col s12">
+			<h1>[[*longtitle]]</h1>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col xl5 l6 m8 s12">
+			<img src="" alt="" class="lazy h" data-src="/img/blog/stats.jpg">
+		</div>
+		<div class="col l6 offset-xl1 m12">
+			<p>По данным <a href="https://www.kathimerini.gr/society/994608/ellada-i-chora-toy-ayxanesthe-kai-plithynesthe-gia-toys-iereis/">источника</a> в России на 100.000 жителей в среднем почти 28 священников. Это в 1.5-3 раза меньше, чем в большинстве стран Европы. Столько же разве что в Норвегии. А меньше – в Германии, Голландии, Болгарии. </p>
+			<p>То есть получается, что каждому православному священнику в России нужно ежедневно общаться с 11 разными, незнакомыми людьми. Не повторяясь аж в течение года… Чтоб хотя б раз побеседовать с каждым и всех выслушать.  А сколько занимает время беседы? У меня лично уходит от 20 минут до 2 часов на человека. Прибавьте 2 часа служб утром и 2 – вечером. А ещё домашняя молитва, общественная нагрузка. 4047 человек в год… Я даже открыл телефонную книгу. У меня там за 7 лет служения скопилось 4168 контактов (это примерно по 3 новых каждые 2 дня). </p>
+			<p>Моё микро исследование, на научную достоверность не претендую, взял данные из открытых источников. И так как крупнейшие федеральные СМИ недоступны из-за взлома – пришлось обратиться даже к Википедии. А начну вот с чего – попалась мне тут [карта числа священнослужителей](https://t.me/mapsanddata/1520) в разных странах на душу населения (на 100 тысяч человек).</p>
+		</div>
+	</div>
+	<div class="row flex vcenter">
+		<div class="col l6 m12 order-m1">
+			<p>Первое место заняла 🇬🇷 Греция – 87,7 священника на 100,000 жителей. В тройке лидеров 🇮🇹 Италия (82,8) и  🇷🇴 Румыния (80,1). Замыкают ТОП 5 🇵🇱 Польша – (71,1) и 🇧🇪 Бельгия – (64,1). Напомню, что 🇷🇺 Россия (27,9) стоит рядом с "атеистической" Норвегией (до 72% населения Норвегии считают себя атеистами). Кто-то считает такие цифры (про Россию) сильно заниженными. Что ж, давайте разберёмся. Первая загвоздка – мне не удалось быстро найти статистику по числу православных священников именно в России. </p>
+			<p>На 2019 год 35 677 священников на всю юрисдикцию Русской Православной Церкви (17 стран, 7 из них в Википедии отмечены как "оспариваемые"). Это не считая дьяконов. Не умаляя их достоинства скажу, что нагрузка на них как правило в разы меньше, и в основном она технического или полу административного характера, то есть общаться с людьми и раздавать советы им почти не приходится. </p>
+		</div>
+		<div class="col xl5 offset-xl1 l6 m8 s12">
+			<img src="" alt="" class="lazy h" data-src="/img/blog/like-norway.jpg">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col align-center-m-up l6 offset-l3 m8 order-m4">
+			<div class="central-block">
+				Но даже если разделить 144.4 млн человек (официальное население РФ на 2019 г.) на это число, то выйдет по 1 священнику на каждые 4047 чел, или 24.7 священника на 100.000 человек. Даже не 29.7, а на пятерых меньше.
+			</div>
+			<p>Для сравнения – учителей в тот же 2019 год в РФ 1 млн 83 тыс человек (или 750 на 100.000 человек). Врачей на 2019 – 703 700 человек (плюс 1.491.400 среднего мед персонала) или 487 врачей на 100.000 человек. Хочется шутливо вспомнить любую поликлинику. Психологов на 2019 г. – до 25.000 человек (по словам президента Российской академии образования (РАО) Юрия Зинченко, официальной статистики я не нашёл). По психологам сложно комментировать – ведь есть психиатры, психотерапевты, клинические психологи, те кто считает себя психологом после получения сертификата Инстаграм. Непонятно, о ком говорил Юрий Зинченко. </p>
+		</div>
+	</div>
+</div>
+            [action] => resource/reload
+            [reloadOnly] => true
+            [resource_groups] => []
+        )
+
+)
+
+[2022-11-30 16:22:40] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_register_messages` (`topic`, `id`, `created`, `valid`, `accesses`, `expires`, `payload`, `kill`) VALUES (2, '6387590a8371c8.92471837', '2022-11-30 16:22:40', '1970-01-01 03:00:00', 0, 1669814860, 'if (time() > 1669814860) return null;\nreturn array (\n  \'pagetitle\' => \'Как в Норвегии\',\n  \'longtitle\' => \'Достаточно ли в России батюшек?\',\n  \'description\' => \'\',\n  \'introtext\' => \'\',\n  \'template\' => \'4\',\n  \'alias\' => \'\',\n  \'menutitle\' => \'\',\n  \'link_attributes\' => \'\',\n  \'hidemenu\' => \'0\',\n  \'published\' => \'1\',\n  \'id\' => \'\',\n  \'type\' => \'document\',\n  \'context_key\' => \'web\',\n  \'content\' => \'\',\n  \'create-resource-token\' => \'6387590a8371c8.92471837\',\n  \'reloaded\' => \'1\',\n  \'parent\' => \'0\',\n  \'parent-original\' => \'0\',\n  \'parent-cmb\' => \'\',\n  \'class_key\' => \'modDocument\',\n  \'content_type\' => \'1\',\n  \'content_dispo\' => \'0\',\n  \'menuindex\' => \'0\',\n  \'publishedon\' => \'\',\n  \'pub_date\' => \'\',\n  \'unpub_date\' => \'\',\n  \'isfolder\' => \'0\',\n  \'searchable\' => \'1\',\n  \'alias_visible\' => \'1\',\n  \'richtext\' => \'1\',\n  \'uri_override\' => \'0\',\n  \'uri\' => \'\',\n  \'cacheable\' => \'1\',\n  \'syncsite\' => \'1\',\n  \'deleted\' => \'0\',\n  \'tvs\' => \'1\',\n  \'tv4\' => \'\',\n  \'tv1\' => \'\',\n  \'tv2\' => \'\',\n  \'tv3\' => \'\',\n  \'tvbrowser3\' => \'\',\n  \'ta\' => \'<div class=\"container\">\r\n	<div class=\"row\">\r\n		<div class=\"col s12\">\r\n			<h1>[[*longtitle]]</h1>\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col xl5 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/stats.jpg\">\r\n		</div>\r\n		<div class=\"col l6 offset-xl1 m12\">\r\n			<p>По данным <a href=\"https://www.kathimerini.gr/society/994608/ellada-i-chora-toy-ayxanesthe-kai-plithynesthe-gia-toys-iereis/\">источника</a> в России на 100.000 жителей в среднем почти 28 священников. Это в 1.5-3 раза меньше, чем в большинстве стран Европы. Столько же разве что в Норвегии. А меньше – в Германии, Голландии, Болгарии. </p>\r\n			<p>То есть получается, что каждому православному священнику в России нужно ежедневно общаться с 11 разными, незнакомыми людьми. Не повторяясь аж в течение года… Чтоб хотя б раз побеседовать с каждым и всех выслушать.  А сколько занимает время беседы? У меня лично уходит от 20 минут до 2 часов на человека. Прибавьте 2 часа служб утром и 2 – вечером. А ещё домашняя молитва, общественная нагрузка. 4047 человек в год… Я даже открыл телефонную книгу. У меня там за 7 лет служения скопилось 4168 контактов (это примерно по 3 новых каждые 2 дня). </p>\r\n			<p>Моё микро исследование, на научную достоверность не претендую, взял данные из открытых источников. И так как крупнейшие федеральные СМИ недоступны из-за взлома – пришлось обратиться даже к Википедии. А начну вот с чего – попалась мне тут [карта числа священнослужителей](https://t.me/mapsanddata/1520) в разных странах на душу населения (на 100 тысяч человек).</p>\r\n		</div>\r\n	</div>\r\n	<div class=\"row flex vcenter\">\r\n		<div class=\"col l6 m12 order-m1\">\r\n			<p>Первое место заняла 🇬🇷 Греция – 87,7 священника на 100,000 жителей. В тройке лидеров 🇮🇹 Италия (82,8) и  🇷🇴 Румыния (80,1). Замыкают ТОП 5 🇵🇱 Польша – (71,1) и 🇧🇪 Бельгия – (64,1). Напомню, что 🇷🇺 Россия (27,9) стоит рядом с \"атеистической\" Норвегией (до 72% населения Норвегии считают себя атеистами). Кто-то считает такие цифры (про Россию) сильно заниженными. Что ж, давайте разберёмся. Первая загвоздка – мне не удалось быстро найти статистику по числу православных священников именно в России. </p>\r\n			<p>На 2019 год 35 677 священников на всю юрисдикцию Русской Православной Церкви (17 стран, 7 из них в Википедии отмечены как \"оспариваемые\"). Это не считая дьяконов. Не умаляя их достоинства скажу, что нагрузка на них как правило в разы меньше, и в основном она технического или полу административного характера, то есть общаться с людьми и раздавать советы им почти не приходится. </p>\r\n		</div>\r\n		<div class=\"col xl5 offset-xl1 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/like-norway.jpg\">\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col align-center-m-up l6 offset-l3 m8 order-m4\">\r\n			<div class=\"central-block\">\r\n				Но даже если разделить 144.4 млн человек (официальное население РФ на 2019 г.) на это число, то выйдет по 1 священнику на каждые 4047 чел, или 24.7 священника на 100.000 человек. Даже не 29.7, а на пятерых меньше.\r\n			</div>\r\n			<p>Для сравнения – учителей в тот же 2019 год в РФ 1 млн 83 тыс человек (или 750 на 100.000 человек). Врачей на 2019 – 703 700 человек (плюс 1.491.400 среднего мед персонала) или 487 врачей на 100.000 человек. Хочется шутливо вспомнить любую поликлинику. Психологов на 2019 г. – до 25.000 человек (по словам президента Российской академии образования (РАО) Юрия Зинченко, официальной статистики я не нашёл). По психологам сложно комментировать – ведь есть психиатры, психотерапевты, клинические психологи, те кто считает себя психологом после получения сертификата Инстаграм. Непонятно, о ком говорил Юрий Зинченко. </p>\r\n		</div>\r\n	</div>\r\n</div>\',\n  \'action\' => \'resource/reload\',\n  \'reloadOnly\' => \'true\',\n  \'resource_groups\' => \'[]\',\n);\n', 0)
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect string value: '\xF0\x9F\x87\xAC\xF0\x9F...' for column 'payload' at row 1
+)
+
+[2022-11-30 16:22:40] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\registry\moddbregister.class.php : 292) Could not send message to queue 2, topic /resourcereload/. Message payload is Array
+(
+    [6387590a8371c8.92471837] => Array
+        (
+            [pagetitle] => Как в Норвегии
+            [longtitle] => Достаточно ли в России батюшек?
+            [description] => 
+            [introtext] => 
+            [template] => 4
+            [alias] => 
+            [menutitle] => 
+            [link_attributes] => 
+            [hidemenu] => 0
+            [published] => 1
+            [id] => 
+            [type] => document
+            [context_key] => web
+            [content] => 
+            [create-resource-token] => 6387590a8371c8.92471837
+            [reloaded] => 1
+            [parent] => 0
+            [parent-original] => 0
+            [parent-cmb] => 
+            [class_key] => modDocument
+            [content_type] => 1
+            [content_dispo] => 0
+            [menuindex] => 0
+            [publishedon] => 
+            [pub_date] => 
+            [unpub_date] => 
+            [isfolder] => 0
+            [searchable] => 1
+            [alias_visible] => 1
+            [richtext] => 1
+            [uri_override] => 0
+            [uri] => 
+            [cacheable] => 1
+            [syncsite] => 1
+            [deleted] => 0
+            [tvs] => 1
+            [tv4] => 
+            [tv1] => 
+            [tv2] => 
+            [tv3] => 
+            [tvbrowser3] => 
+            [ta] => <div class="container">
+	<div class="row">
+		<div class="col s12">
+			<h1>[[*longtitle]]</h1>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col xl5 l6 m8 s12">
+			<img src="" alt="" class="lazy h" data-src="/img/blog/stats.jpg">
+		</div>
+		<div class="col l6 offset-xl1 m12">
+			<p>По данным <a href="https://www.kathimerini.gr/society/994608/ellada-i-chora-toy-ayxanesthe-kai-plithynesthe-gia-toys-iereis/">источника</a> в России на 100.000 жителей в среднем почти 28 священников. Это в 1.5-3 раза меньше, чем в большинстве стран Европы. Столько же разве что в Норвегии. А меньше – в Германии, Голландии, Болгарии. </p>
+			<p>То есть получается, что каждому православному священнику в России нужно ежедневно общаться с 11 разными, незнакомыми людьми. Не повторяясь аж в течение года… Чтоб хотя б раз побеседовать с каждым и всех выслушать.  А сколько занимает время беседы? У меня лично уходит от 20 минут до 2 часов на человека. Прибавьте 2 часа служб утром и 2 – вечером. А ещё домашняя молитва, общественная нагрузка. 4047 человек в год… Я даже открыл телефонную книгу. У меня там за 7 лет служения скопилось 4168 контактов (это примерно по 3 новых каждые 2 дня). </p>
+			<p>Моё микро исследование, на научную достоверность не претендую, взял данные из открытых источников. И так как крупнейшие федеральные СМИ недоступны из-за взлома – пришлось обратиться даже к Википедии. А начну вот с чего – попалась мне тут [карта числа священнослужителей](https://t.me/mapsanddata/1520) в разных странах на душу населения (на 100 тысяч человек).</p>
+		</div>
+	</div>
+	<div class="row flex vcenter">
+		<div class="col l6 m12 order-m1">
+			<p>Первое место заняла 🇬🇷 Греция – 87,7 священника на 100,000 жителей. В тройке лидеров 🇮🇹 Италия (82,8) и  🇷🇴 Румыния (80,1). Замыкают ТОП 5 🇵🇱 Польша – (71,1) и 🇧🇪 Бельгия – (64,1). Напомню, что 🇷🇺 Россия (27,9) стоит рядом с "атеистической" Норвегией (до 72% населения Норвегии считают себя атеистами). Кто-то считает такие цифры (про Россию) сильно заниженными. Что ж, давайте разберёмся. Первая загвоздка – мне не удалось быстро найти статистику по числу православных священников именно в России. </p>
+			<p>На 2019 год 35 677 священников на всю юрисдикцию Русской Православной Церкви (17 стран, 7 из них в Википедии отмечены как "оспариваемые"). Это не считая дьяконов. Не умаляя их достоинства скажу, что нагрузка на них как правило в разы меньше, и в основном она технического или полу административного характера, то есть общаться с людьми и раздавать советы им почти не приходится. </p>
+		</div>
+		<div class="col xl5 offset-xl1 l6 m8 s12">
+			<img src="" alt="" class="lazy h" data-src="/img/blog/like-norway.jpg">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col align-center-m-up l6 offset-l3 m8 order-m4">
+			<div class="central-block">
+				Но даже если разделить 144.4 млн человек (официальное население РФ на 2019 г.) на это число, то выйдет по 1 священнику на каждые 4047 чел, или 24.7 священника на 100.000 человек. Даже не 29.7, а на пятерых меньше.
+			</div>
+			<p>Для сравнения – учителей в тот же 2019 год в РФ 1 млн 83 тыс человек (или 750 на 100.000 человек). Врачей на 2019 – 703 700 человек (плюс 1.491.400 среднего мед персонала) или 487 врачей на 100.000 человек. Хочется шутливо вспомнить любую поликлинику. Психологов на 2019 г. – до 25.000 человек (по словам президента Российской академии образования (РАО) Юрия Зинченко, официальной статистики я не нашёл). По психологам сложно комментировать – ведь есть психиатры, психотерапевты, клинические психологи, те кто считает себя психологом после получения сертификата Инстаграм. Непонятно, о ком говорил Юрий Зинченко. </p>
+		</div>
+	</div>
+</div>
+            [action] => resource/reload
+            [reloadOnly] => true
+            [resource_groups] => []
+        )
+
+)
+
+[2022-11-30 16:23:27] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `modx_site_content` (`type`, `contentType`, `pagetitle`, `longtitle`, `description`, `alias`, `alias_visible`, `link_attributes`, `published`, `pub_date`, `unpub_date`, `parent`, `isfolder`, `introtext`, `content`, `richtext`, `template`, `menuindex`, `searchable`, `cacheable`, `createdby`, `createdon`, `editedby`, `editedon`, `deleted`, `deletedon`, `deletedby`, `publishedon`, `publishedby`, `menutitle`, `donthit`, `privateweb`, `privatemgr`, `content_dispo`, `hidemenu`, `class_key`, `context_key`, `content_type`, `uri`, `uri_override`, `hide_children_in_tree`, `show_in_tree`) VALUES ('document', 'text/html', 'Как в Норвегии', 'Достаточно ли в России батюшек?', '', 'kak-v-norvegii', 1, '', 1, 0, 0, 0, 0, '', '<div class=\"container\">\r\n	<div class=\"row\">\r\n		<div class=\"col s12\">\r\n			<h1>[[*longtitle]]</h1>\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col xl5 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/stats.jpg\">\r\n		</div>\r\n		<div class=\"col l6 offset-xl1 m12\">\r\n			<p>По данным <a href=\"https://www.kathimerini.gr/society/994608/ellada-i-chora-toy-ayxanesthe-kai-plithynesthe-gia-toys-iereis/\">источника</a> в России на 100.000 жителей в среднем почти 28 священников. Это в 1.5-3 раза меньше, чем в большинстве стран Европы. Столько же разве что в Норвегии. А меньше – в Германии, Голландии, Болгарии. </p>\r\n			<p>То есть получается, что каждому православному священнику в России нужно ежедневно общаться с 11 разными, незнакомыми людьми. Не повторяясь аж в течение года… Чтоб хотя б раз побеседовать с каждым и всех выслушать.  А сколько занимает время беседы? У меня лично уходит от 20 минут до 2 часов на человека. Прибавьте 2 часа служб утром и 2 – вечером. А ещё домашняя молитва, общественная нагрузка. 4047 человек в год… Я даже открыл телефонную книгу. У меня там за 7 лет служения скопилось 4168 контактов (это примерно по 3 новых каждые 2 дня). </p>\r\n			<p>Моё микро исследование, на научную достоверность не претендую, взял данные из открытых источников. И так как крупнейшие федеральные СМИ недоступны из-за взлома – пришлось обратиться даже к Википедии. А начну вот с чего – попалась мне тут [карта числа священнослужителей](https://t.me/mapsanddata/1520) в разных странах на душу населения (на 100 тысяч человек).</p>\r\n		</div>\r\n	</div>\r\n	<div class=\"row flex vcenter\">\r\n		<div class=\"col l6 m12 order-m1\">\r\n			<p>Первое место заняла 🇬🇷 Греция – 87,7 священника на 100,000 жителей. В тройке лидеров 🇮🇹 Италия (82,8) и  🇷🇴 Румыния (80,1). Замыкают ТОП 5 🇵🇱 Польша – (71,1) и 🇧🇪 Бельгия – (64,1). Напомню, что 🇷🇺 Россия (27,9) стоит рядом с \"атеистической\" Норвегией (до 72% населения Норвегии считают себя атеистами). Кто-то считает такие цифры (про Россию) сильно заниженными. Что ж, давайте разберёмся. Первая загвоздка – мне не удалось быстро найти статистику по числу православных священников именно в России. </p>\r\n			<p>На 2019 год 35 677 священников на всю юрисдикцию Русской Православной Церкви (17 стран, 7 из них в Википедии отмечены как \"оспариваемые\"). Это не считая дьяконов. Не умаляя их достоинства скажу, что нагрузка на них как правило в разы меньше, и в основном она технического или полу административного характера, то есть общаться с людьми и раздавать советы им почти не приходится. </p>\r\n		</div>\r\n		<div class=\"col xl5 offset-xl1 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/like-norway.jpg\">\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col align-center-m-up l6 offset-l3 m8 order-m4\">\r\n			<div class=\"central-block\">\r\n				Но даже если разделить 144.4 млн человек (официальное население РФ на 2019 г.) на это число, то выйдет по 1 священнику на каждые 4047 чел, или 24.7 священника на 100.000 человек. Даже не 29.7, а на пятерых меньше.\r\n			</div>\r\n			<p>Для сравнения – учителей в тот же 2019 год в РФ 1 млн 83 тыс человек (или 750 на 100.000 человек). Врачей на 2019 – 703 700 человек (плюс 1.491.400 среднего мед персонала) или 487 врачей на 100.000 человек. Хочется шутливо вспомнить любую поликлинику. Психологов на 2019 г. – до 25.000 человек (по словам президента Российской академии образования (РАО) Юрия Зинченко, официальной статистики я не нашёл). По психологам сложно комментировать – ведь есть психиатры, психотерапевты, клинические психологи, те кто считает себя психологом после получения сертификата Инстаграм. Непонятно, о ком говорил Юрий Зинченко. </p>\r\n		</div>\r\n	</div>\r\n</div>', 1, 4, 9, 1, 1, 1, 1669814607, 0, 0, 0, 0, 0, 1669814607, 1, '', 0, 0, 0, 0, 0, 'modDocument', 'web', 1, 'kak-v-norvegii.html', 0, 0, 1)
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect string value: '\xF0\x9F\x87\xAC\xF0\x9F...' for column 'content' at row 1
+)
+
+[2022-11-30 16:25:51] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+UPDATE `modx_site_content` SET `content` = '<div class=\"container\">\r\n	<div class=\"row\">\r\n		<div class=\"col s12\">\r\n			<h1>[[*longtitle]]</h1>\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col xl5 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/stats.jpg\">\r\n		</div>\r\n		<div class=\"col l6 offset-xl1 m12\">\r\n			<p>По данным <a href=\"https://www.kathimerini.gr/society/994608/ellada-i-chora-toy-ayxanesthe-kai-plithynesthe-gia-toys-iereis/\">источника</a> в России на 100.000 жителей в среднем почти 28 священников. Это в 1.5-3 раза меньше, чем в большинстве стран Европы. Столько же разве что в Норвегии. А меньше – в Германии, Голландии, Болгарии. </p>\r\n			<p>То есть получается, что каждому православному священнику в России нужно ежедневно общаться с 11 разными, незнакомыми людьми. Не повторяясь аж в течение года… Чтоб хотя б раз побеседовать с каждым и всех выслушать.  А сколько занимает время беседы? У меня лично уходит от 20 минут до 2 часов на человека. Прибавьте 2 часа служб утром и 2 – вечером. А ещё домашняя молитва, общественная нагрузка. 4047 человек в год… Я даже открыл телефонную книгу. У меня там за 7 лет служения скопилось 4168 контактов (это примерно по 3 новых каждые 2 дня). </p>\r\n			<p>Моё микро исследование, на научную достоверность не претендую, взял данные из открытых источников. И так как крупнейшие федеральные СМИ недоступны из-за взлома – пришлось обратиться даже к Википедии. А начну вот с чего – попалась мне тут [карта числа священнослужителей](https://t.me/mapsanddata/1520) в разных странах на душу населения (на 100 тысяч человек).</p>\r\n		</div>\r\n	</div>\r\n	<div class=\"row flex vcenter\">\r\n		<div class=\"col l6 m12 order-m1\">\r\n			<p>Первое место заняла 🇬🇷 Греция – 87,7 священника на 100,000 жителей. В тройке лидеров 🇮🇹 Италия (82,8) и  🇷🇴 Румыния (80,1). Замыкают ТОП 5 🇵🇱 Польша – (71,1) и 🇧🇪 Бельгия – (64,1). Напомню, что 🇷🇺 Россия (27,9) стоит рядом с \"атеистической\" Норвегией (до 72% населения Норвегии считают себя атеистами). Кто-то считает такие цифры (про Россию) сильно заниженными. Что ж, давайте разберёмся. Первая загвоздка – мне не удалось быстро найти статистику по числу православных священников именно в России. </p>\r\n			<p>На 2019 год 35 677 священников на всю юрисдикцию Русской Православной Церкви (17 стран, 7 из них в Википедии отмечены как \"оспариваемые\"). Это не считая дьяконов. Не умаляя их достоинства скажу, что нагрузка на них как правило в разы меньше, и в основном она технического или полу административного характера, то есть общаться с людьми и раздавать советы им почти не приходится. </p>\r\n		</div>\r\n		<div class=\"col xl5 offset-xl1 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/like-norway.jpg\">\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col align-center-m-up l6 offset-l3 m8 order-m4\">\r\n			<div class=\"central-block\">\r\n				Но даже если разделить 144.4 млн человек (официальное население РФ на 2019 г.) на это число, то выйдет по 1 священнику на каждые 4047 чел, или 24.7 священника на 100.000 человек. Даже не 29.7, а на пятерых меньше.\r\n			</div>\r\n			<p>Для сравнения – учителей в тот же 2019 год в РФ 1 млн 83 тыс человек (или 750 на 100.000 человек). Врачей на 2019 – 703 700 человек (плюс 1.491.400 среднего мед персонала) или 487 врачей на 100.000 человек. Хочется шутливо вспомнить любую поликлинику. Психологов на 2019 г. – до 25.000 человек (по словам президента Российской академии образования (РАО) Юрия Зинченко, официальной статистики я не нашёл). По психологам сложно комментировать – ведь есть психиатры, психотерапевты, клинические психологи, те кто считает себя психологом после получения сертификата Инстаграм. Непонятно, о ком говорил Юрий Зинченко. </p>\r\n		</div>\r\n	</div>\r\n</div>',`publishedon` = 1669814700,`editedby` = 1,`editedon` = 1669814751 WHERE `id` = 60
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect string value: '\xF0\x9F\x87\xAC\xF0\x9F...' for column 'content' at row 1
+)
+
+[2022-11-30 16:26:02] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+UPDATE `modx_site_content` SET `content` = '<div class=\"container\">\r\n	<div class=\"row\">\r\n		<div class=\"col s12\">\r\n			<h1></h1>\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col xl5 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/stats.jpg\">\r\n		</div>\r\n		<div class=\"col l6 offset-xl1 m12\">\r\n			<p>По данным <a href=\"https://www.kathimerini.gr/society/994608/ellada-i-chora-toy-ayxanesthe-kai-plithynesthe-gia-toys-iereis/\">источника</a> в России на 100.000 жителей в среднем почти 28 священников. Это в 1.5-3 раза меньше, чем в большинстве стран Европы. Столько же разве что в Норвегии. А меньше – в Германии, Голландии, Болгарии. </p>\r\n			<p>То есть получается, что каждому православному священнику в России нужно ежедневно общаться с 11 разными, незнакомыми людьми. Не повторяясь аж в течение года… Чтоб хотя б раз побеседовать с каждым и всех выслушать.  А сколько занимает время беседы? У меня лично уходит от 20 минут до 2 часов на человека. Прибавьте 2 часа служб утром и 2 – вечером. А ещё домашняя молитва, общественная нагрузка. 4047 человек в год… Я даже открыл телефонную книгу. У меня там за 7 лет служения скопилось 4168 контактов (это примерно по 3 новых каждые 2 дня). </p>\r\n			<p>Моё микро исследование, на научную достоверность не претендую, взял данные из открытых источников. И так как крупнейшие федеральные СМИ недоступны из-за взлома – пришлось обратиться даже к Википедии. А начну вот с чего – попалась мне тут [карта числа священнослужителей](https://t.me/mapsanddata/1520) в разных странах на душу населения (на 100 тысяч человек).</p>\r\n		</div>\r\n	</div>\r\n	<div class=\"row flex vcenter\">\r\n		<div class=\"col l6 m12 order-m1\">\r\n			<p>Первое место заняла 🇬🇷 Греция – 87,7 священника на 100,000 жителей. В тройке лидеров 🇮🇹 Италия (82,8) и  🇷🇴 Румыния (80,1). Замыкают ТОП 5 🇵🇱 Польша – (71,1) и 🇧🇪 Бельгия – (64,1). Напомню, что 🇷🇺 Россия (27,9) стоит рядом с \"атеистической\" Норвегией (до 72% населения Норвегии считают себя атеистами). Кто-то считает такие цифры (про Россию) сильно заниженными. Что ж, давайте разберёмся. Первая загвоздка – мне не удалось быстро найти статистику по числу православных священников именно в России. </p>\r\n			<p>На 2019 год 35 677 священников на всю юрисдикцию Русской Православной Церкви (17 стран, 7 из них в Википедии отмечены как \"оспариваемые\"). Это не считая дьяконов. Не умаляя их достоинства скажу, что нагрузка на них как правило в разы меньше, и в основном она технического или полу административного характера, то есть общаться с людьми и раздавать советы им почти не приходится. </p>\r\n		</div>\r\n		<div class=\"col xl5 offset-xl1 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/like-norway.jpg\">\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col align-center-m-up l6 offset-l3 m8 order-m4\">\r\n			<div class=\"central-block\">\r\n				Но даже если разделить 144.4 млн человек (официальное население РФ на 2019 г.) на это число, то выйдет по 1 священнику на каждые 4047 чел, или 24.7 священника на 100.000 человек. Даже не 29.7, а на пятерых меньше.\r\n			</div>\r\n			<p>Для сравнения – учителей в тот же 2019 год в РФ 1 млн 83 тыс человек (или 750 на 100.000 человек). Врачей на 2019 – 703 700 человек (плюс 1.491.400 среднего мед персонала) или 487 врачей на 100.000 человек. Хочется шутливо вспомнить любую поликлинику. Психологов на 2019 г. – до 25.000 человек (по словам президента Российской академии образования (РАО) Юрия Зинченко, официальной статистики я не нашёл). По психологам сложно комментировать – ведь есть психиатры, психотерапевты, клинические психологи, те кто считает себя психологом после получения сертификата Инстаграм. Непонятно, о ком говорил Юрий Зинченко. </p>\r\n		</div>\r\n	</div>\r\n</div>',`publishedon` = 1669814700,`editedby` = 1,`editedon` = 1669814762 WHERE `id` = 60
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect string value: '\xF0\x9F\x87\xAC\xF0\x9F...' for column 'content' at row 1
+)
+
+[2022-11-30 16:26:22] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+UPDATE `modx_site_content` SET `content` = '<div class=\"container\">\r\n	<div class=\"row\">\r\n		<div class=\"col s12\">\r\n			<h1>Достаточно ли в России батюшек? </h1>\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col xl5 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/stats.jpg\">\r\n		</div>\r\n		<div class=\"col l6 offset-xl1 m12\">\r\n			<p>По данным <a href=\"https://www.kathimerini.gr/society/994608/ellada-i-chora-toy-ayxanesthe-kai-plithynesthe-gia-toys-iereis/\">источника</a> в России на 100.000 жителей в среднем почти 28 священников. Это в 1.5-3 раза меньше, чем в большинстве стран Европы. Столько же разве что в Норвегии. А меньше – в Германии, Голландии, Болгарии. </p>\r\n			<p>То есть получается, что каждому православному священнику в России нужно ежедневно общаться с 11 разными, незнакомыми людьми. Не повторяясь аж в течение года… Чтоб хотя б раз побеседовать с каждым и всех выслушать.  А сколько занимает время беседы? У меня лично уходит от 20 минут до 2 часов на человека. Прибавьте 2 часа служб утром и 2 – вечером. А ещё домашняя молитва, общественная нагрузка. 4047 человек в год… Я даже открыл телефонную книгу. У меня там за 7 лет служения скопилось 4168 контактов (это примерно по 3 новых каждые 2 дня). </p>\r\n			<p>Моё микро исследование, на научную достоверность не претендую, взял данные из открытых источников. И так как крупнейшие федеральные СМИ недоступны из-за взлома – пришлось обратиться даже к Википедии. А начну вот с чего – попалась мне тут [карта числа священнослужителей](https://t.me/mapsanddata/1520) в разных странах на душу населения (на 100 тысяч человек).</p>\r\n		</div>\r\n	</div>\r\n	<div class=\"row flex vcenter\">\r\n		<div class=\"col l6 m12 order-m1\">\r\n			<p>Первое место заняла 🇬🇷 Греция – 87,7 священника на 100,000 жителей. В тройке лидеров 🇮🇹 Италия (82,8) и  🇷🇴 Румыния (80,1). Замыкают ТОП 5 🇵🇱 Польша – (71,1) и 🇧🇪 Бельгия – (64,1). Напомню, что 🇷🇺 Россия (27,9) стоит рядом с \"атеистической\" Норвегией (до 72% населения Норвегии считают себя атеистами). Кто-то считает такие цифры (про Россию) сильно заниженными. Что ж, давайте разберёмся. Первая загвоздка – мне не удалось быстро найти статистику по числу православных священников именно в России. </p>\r\n			<p>На 2019 год 35 677 священников на всю юрисдикцию Русской Православной Церкви (17 стран, 7 из них в Википедии отмечены как \"оспариваемые\"). Это не считая дьяконов. Не умаляя их достоинства скажу, что нагрузка на них как правило в разы меньше, и в основном она технического или полу административного характера, то есть общаться с людьми и раздавать советы им почти не приходится. </p>\r\n		</div>\r\n		<div class=\"col xl5 offset-xl1 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/like-norway.jpg\">\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col align-center-m-up l6 offset-l3 m8 order-m4\">\r\n			<div class=\"central-block\">\r\n				Но даже если разделить 144.4 млн человек (официальное население РФ на 2019 г.) на это число, то выйдет по 1 священнику на каждые 4047 чел, или 24.7 священника на 100.000 человек. Даже не 29.7, а на пятерых меньше.\r\n			</div>\r\n			<p>Для сравнения – учителей в тот же 2019 год в РФ 1 млн 83 тыс человек (или 750 на 100.000 человек). Врачей на 2019 – 703 700 человек (плюс 1.491.400 среднего мед персонала) или 487 врачей на 100.000 человек. Хочется шутливо вспомнить любую поликлинику. Психологов на 2019 г. – до 25.000 человек (по словам президента Российской академии образования (РАО) Юрия Зинченко, официальной статистики я не нашёл). По психологам сложно комментировать – ведь есть психиатры, психотерапевты, клинические психологи, те кто считает себя психологом после получения сертификата Инстаграм. Непонятно, о ком говорил Юрий Зинченко. </p>\r\n		</div>\r\n	</div>\r\n</div>',`publishedon` = 1669814700,`editedby` = 1,`editedon` = 1669814782 WHERE `id` = 60
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect string value: '\xF0\x9F\x87\xAC\xF0\x9F...' for column 'content' at row 1
+)
+
+[2022-11-30 16:26:34] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+UPDATE `modx_site_content` SET `content` = '<div class=\"container\">\r\n	<div class=\"row\">\r\n		<div class=\"col s12\">\r\n			<h1>Достаточно ли в России батюшек? </h1>\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col xl5 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/stats.jpg\">\r\n		</div>\r\n		<div class=\"col l6 offset-xl1 m12\">\r\n			<p>По данным <a href=\"https://www.kathimerini.gr/society/994608/ellada-i-chora-toy-ayxanesthe-kai-plithynesthe-gia-toys-iereis/\">источника</a> в России на 100.000 жителей в среднем почти 28 священников. Это в 1.5-3 раза меньше, чем в большинстве стран Европы. Столько же разве что в Норвегии. А меньше – в Германии, Голландии, Болгарии. </p>\r\n			<p>То есть получается, что каждому православному священнику в России нужно ежедневно общаться с 11 разными, незнакомыми людьми. Не повторяясь аж в течение года… Чтоб хотя б раз побеседовать с каждым и всех выслушать.  А сколько занимает время беседы? У меня лично уходит от 20 минут до 2 часов на человека. Прибавьте 2 часа служб утром и 2 – вечером. А ещё домашняя молитва, общественная нагрузка. 4047 человек в год… Я даже открыл телефонную книгу. У меня там за 7 лет служения скопилось 4168 контактов (это примерно по 3 новых каждые 2 дня). </p>\r\n			<p>Моё микро исследование, на научную достоверность не претендую, взял данные из открытых источников. И так как крупнейшие федеральные СМИ недоступны из-за взлома – пришлось обратиться даже к Википедии. А начну вот с чего – попалась мне тут [карта числа священнослужителей](https://t.me/mapsanddata/1520) в разных странах на душу населения (на 100 тысяч человек).</p>\r\n		</div>\r\n	</div>\r\n	<div class=\"row flex vcenter\">\r\n		<div class=\"col l6 m12 order-m1\">\r\n			<p>Первое место заняла 🇬🇷 Греция – 87,7 священника на 100,000 жителей. В тройке лидеров 🇮🇹 Италия (82,8) и  🇷🇴 Румыния (80,1). Замыкают ТОП 5 🇵🇱 Польша – (71,1) и 🇧🇪 Бельгия – (64,1). Напомню, что 🇷🇺 Россия (27,9) стоит рядом с \"атеистической\" Норвегией (до 72% населения Норвегии считают себя атеистами). Кто-то считает такие цифры (про Россию) сильно заниженными. Что ж, давайте разберёмся. Первая загвоздка – мне не удалось быстро найти статистику по числу православных священников именно в России. </p>\r\n			<p>На 2019 год 35 677 священников на всю юрисдикцию Русской Православной Церкви (17 стран, 7 из них в Википедии отмечены как \"оспариваемые\"). Это не считая дьяконов. Не умаляя их достоинства скажу, что нагрузка на них как правило в разы меньше, и в основном она технического или полу административного характера, то есть общаться с людьми и раздавать советы им почти не приходится. </p>\r\n		</div>\r\n		<div class=\"col xl5 offset-xl1 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/like-norway.jpg\">\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col align-center-m-up l6 offset-l3 m8 order-m4\">\r\n			<div class=\"central-block\">\r\n				Но даже если разделить 144.4 млн человек (официальное население РФ на 2019 г.) на это число, то выйдет по 1 священнику на каждые 4047 чел, или 24.7 священника на 100.000 человек. Даже не 29.7, а на пятерых меньше.\r\n			</div>\r\n			<p>Для сравнения – учителей в тот же 2019 год в РФ 1 млн 83 тыс человек (или 750 на 100.000 человек). Врачей на 2019 – 703 700 человек (плюс 1.491.400 среднего мед персонала) или 487 врачей на 100.000 человек. Хочется шутливо вспомнить любую поликлинику. Психологов на 2019 г. – до 25.000 человек (по словам президента Российской академии образования (РАО) Юрия Зинченко, официальной статистики я не нашёл). По психологам сложно комментировать – ведь есть психиатры, психотерапевты, клинические психологи, те кто считает себя психологом после получения сертификата Инстаграм. Непонятно, о ком говорил Юрий Зинченко. </p>\r\n		</div>\r\n	</div>\r\n</div>',`publishedon` = 1669814700,`editedby` = 1,`editedon` = 1669814794 WHERE `id` = 60
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect string value: '\xF0\x9F\x87\xAC\xF0\x9F...' for column 'content' at row 1
+)
+
+[2022-11-30 16:26:46] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+UPDATE `modx_site_content` SET `content` = '				<div class=\"container\">\r\n					<div class=\"row\">\r\n						<div class=\"col s12\">\r\n							<h1>Достаточно ли в России батюшек? </h1>\r\n						</div>\r\n					</div>\r\n					<div class=\"row\">\r\n						<div class=\"col xl5 l6 m8 s12\">\r\n							<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/stats.jpg\">\r\n						</div>\r\n						<div class=\"col l6 offset-xl1 m12\">\r\n							<p>По данным <a href=\"https://www.kathimerini.gr/society/994608/ellada-i-chora-toy-ayxanesthe-kai-plithynesthe-gia-toys-iereis/\">источника</a> в России на 100.000 жителей в среднем почти 28 священников. Это в 1.5-3 раза меньше, чем в большинстве стран Европы. Столько же разве что в Норвегии. А меньше – в Германии, Голландии, Болгарии. </p>\r\n							<p>То есть получается, что каждому православному священнику в России нужно ежедневно общаться с 11 разными, незнакомыми людьми. Не повторяясь аж в течение года… Чтоб хотя б раз побеседовать с каждым и всех выслушать.  А сколько занимает время беседы? У меня лично уходит от 20 минут до 2 часов на человека. Прибавьте 2 часа служб утром и 2 – вечером. А ещё домашняя молитва, общественная нагрузка. 4047 человек в год… Я даже открыл телефонную книгу. У меня там за 7 лет служения скопилось 4168 контактов (это примерно по 3 новых каждые 2 дня). </p>\r\n							<p>Моё микро исследование, на научную достоверность не претендую, взял данные из открытых источников. И так как крупнейшие федеральные СМИ недоступны из-за взлома – пришлось обратиться даже к Википедии. А начну вот с чего – попалась мне тут [карта числа священнослужителей](https://t.me/mapsanddata/1520) в разных странах на душу населения (на 100 тысяч человек).</p>\r\n						</div>\r\n					</div>\r\n					<div class=\"row flex vcenter\">\r\n						<div class=\"col l6 m12 order-m1\">\r\n							<p>Первое место заняла 🇬🇷 Греция – 87,7 священника на 100,000 жителей. В тройке лидеров 🇮🇹 Италия (82,8) и  🇷🇴 Румыния (80,1). Замыкают ТОП 5 🇵🇱 Польша – (71,1) и 🇧🇪 Бельгия – (64,1). Напомню, что 🇷🇺 Россия (27,9) стоит рядом с \"атеистической\" Норвегией (до 72% населения Норвегии считают себя атеистами). Кто-то считает такие цифры (про Россию) сильно заниженными. Что ж, давайте разберёмся. Первая загвоздка – мне не удалось быстро найти статистику по числу православных священников именно в России. </p>\r\n							<p>На 2019 год 35 677 священников на всю юрисдикцию Русской Православной Церкви (17 стран, 7 из них в Википедии отмечены как \"оспариваемые\"). Это не считая дьяконов. Не умаляя их достоинства скажу, что нагрузка на них как правило в разы меньше, и в основном она технического или полу административного характера, то есть общаться с людьми и раздавать советы им почти не приходится. </p>\r\n						</div>\r\n						<div class=\"col xl5 offset-xl1 l6 m8 s12\">\r\n							<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/like-norway.jpg\">\r\n						</div>\r\n					</div>\r\n					<div class=\"row\">\r\n						<div class=\"col align-center-m-up l6 offset-l3 m8 order-m4\">\r\n							<div class=\"central-block\">\r\n								Но даже если разделить 144.4 млн человек (официальное население РФ на 2019 г.) на это число, то выйдет по 1 священнику на каждые 4047 чел, или 24.7 священника на 100.000 человек. Даже не 29.7, а на пятерых меньше.\r\n							</div>\r\n							<p>Для сравнения – учителей в тот же 2019 год в РФ 1 млн 83 тыс человек (или 750 на 100.000 человек). Врачей на 2019 – 703 700 человек (плюс 1.491.400 среднего мед персонала) или 487 врачей на 100.000 человек. Хочется шутливо вспомнить любую поликлинику. Психологов на 2019 г. – до 25.000 человек (по словам президента Российской академии образования (РАО) Юрия Зинченко, официальной статистики я не нашёл). По психологам сложно комментировать – ведь есть психиатры, психотерапевты, клинические психологи, те кто считает себя психологом после получения сертификата Инстаграм. Непонятно, о ком говорил Юрий Зинченко. </p>\r\n						</div>\r\n					</div>\r\n				</div>',`editedon` = 1669814806 WHERE `id` = 60
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect string value: '\xF0\x9F\x87\xAC\xF0\x9F...' for column 'content' at row 1
+)
+
+[2022-11-30 16:27:43] (ERROR @ D:\Projects\Hosts\church.local\release\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+UPDATE `modx_site_content` SET `content` = '<div class=\"container\">\r\n	<div class=\"row\">\r\n		<div class=\"col s12\">\r\n			<h1>Достаточно ли в России батюшек? </h1>\r\n		</div>\r\n	</div>\r\n	<div class=\"row flex vcenter\">\r\n		<div class=\"col l6 m12 order-m1\">\r\n			<p>Первое место заняла 🇬🇷 Греция – 87,7 священника на 100,000 жителей. В тройке лидеров 🇮🇹 Италия (82,8) и  🇷🇴 Румыния (80,1). Замыкают ТОП 5 🇵🇱 Польша – (71,1) и 🇧🇪 Бельгия – (64,1). Напомню, что 🇷🇺 Россия (27,9) стоит рядом с \"атеистической\" Норвегией (до 72% населения Норвегии считают себя атеистами). Кто-то считает такие цифры (про Россию) сильно заниженными. Что ж, давайте разберёмся. Первая загвоздка – мне не удалось быстро найти статистику по числу православных священников именно в России. </p>\r\n			<p>На 2019 год 35 677 священников на всю юрисдикцию Русской Православной Церкви (17 стран, 7 из них в Википедии отмечены как \"оспариваемые\"). Это не считая дьяконов. Не умаляя их достоинства скажу, что нагрузка на них как правило в разы меньше, и в основном она технического или полу административного характера, то есть общаться с людьми и раздавать советы им почти не приходится. </p>\r\n		</div>\r\n		<div class=\"col xl5 offset-xl1 l6 m8 s12\">\r\n			<img src=\"\" alt=\"\" class=\"lazy h\" data-src=\"/img/blog/like-norway.jpg\">\r\n		</div>\r\n	</div>\r\n	<div class=\"row\">\r\n		<div class=\"col align-center-m-up l6 offset-l3 m8 order-m4\">\r\n			<div class=\"central-block\">\r\n				Но даже если разделить 144.4 млн человек (официальное население РФ на 2019 г.) на это число, то выйдет по 1 священнику на каждые 4047 чел, или 24.7 священника на 100.000 человек. Даже не 29.7, а на пятерых меньше.\r\n			</div>\r\n			<p>Для сравнения – учителей в тот же 2019 год в РФ 1 млн 83 тыс человек (или 750 на 100.000 человек). Врачей на 2019 – 703 700 человек (плюс 1.491.400 среднего мед персонала) или 487 врачей на 100.000 человек. Хочется шутливо вспомнить любую поликлинику. Психологов на 2019 г. – до 25.000 человек (по словам президента Российской академии образования (РАО) Юрия Зинченко, официальной статистики я не нашёл). По психологам сложно комментировать – ведь есть психиатры, психотерапевты, клинические психологи, те кто считает себя психологом после получения сертификата Инстаграм. Непонятно, о ком говорил Юрий Зинченко. </p>\r\n		</div>\r\n	</div>\r\n</div>',`editedon` = 1669814863 WHERE `id` = 60
+Array
+(
+    [0] => HY000
+    [1] => 1366
+    [2] => Incorrect string value: '\xF0\x9F\x87\xAC\xF0\x9F...' for column 'content' at row 1
+)
+
+[2022-11-30 16:36:16] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name tv.img.
+[2022-11-30 16:59:51] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name tv.img.
+[2022-11-30 17:28:05] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name tv.img.
+[2022-11-30 17:56:21] (ERROR @ D:\Projects\Hosts\church.local\release\core\model\modx\modparser.class.php : 541) Could not find snippet with name tv.img.

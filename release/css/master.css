@@ -23908,7 +23908,7 @@ html {
             border: 0;
             border-bottom: 1px solid rgba(255, 255, 255, 0.5); }
     html body section.padding {
-      padding: 4vmax 0; }
+      padding: 2vmax 0; }
     html body section#subscribe {
       margin-bottom: 8vmax; }
       html body section#subscribe h2 {
@@ -24250,6 +24250,8 @@ footer {
 
 #send-note {
   transition: background-color .6s, color .6s; }
+  #send-note .modal-footer {
+    transition: background-color .6s; }
   #send-note .modal-header {
     display: flex;
     align-items: center;
@@ -24259,6 +24261,7 @@ footer {
       flex-grow: 1; }
     #send-note .modal-header a, #send-note .modal-header html body .pagination li span, html body .pagination li #send-note .modal-header span {
       font-size: 32px;
+      transition: color .2s;
       color: #1f202f; }
   #send-note .section-name {
     margin-bottom: 1vmax;
@@ -24364,7 +24367,9 @@ footer {
     background-color: #1f202f;
     color: #F5E7E8; }
     #send-note.rest a:not(.bttn), #send-note.rest html body .pagination li span:not(.bttn), html body .pagination li #send-note.rest span:not(.bttn) {
-      color: #1f202f; }
+      color: #F5E7E8; }
+    #send-note.rest .modal-footer {
+      background-color: #1f202f; }
     #send-note.rest input[type="radio"] ~ label:after {
       background-color: #F5E7E8; }
     #send-note.rest .input-field {

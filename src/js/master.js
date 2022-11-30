@@ -76,6 +76,15 @@ function initFrameworks(){
 	}
 
 	if($('#social-services-swiper').length){
+
+		$('#social-services-swiper .swiper-slide').each((index, el) => {
+			$(el).attr('data-slide', index);
+		});
+
+		$('.slider-pages li').each((index, el) => {
+			$(el).attr("data-slide", index);
+		})
+
 		let socialSlider = new Swiper('#social-services-swiper', {
 			mousewheel: true,
 			pagination:{
@@ -102,6 +111,15 @@ function initFrameworks(){
 	}
 
 	if($('#yough-slider').length){
+
+		$('#yough-slider .swiper-slide').each((index, el) => {
+			$(el).attr('data-index', index);
+		});
+
+		$('.yough-pages .lazy').each((index, el) => {
+			$(el).attr("data-index", index);
+		})
+
 		let youghSlider = new Swiper('#yough-slider', {
 			on:{
 				'slideChangeTransitionEnd': () => {
@@ -157,7 +175,7 @@ function initEvents(){
 	$('body').on('mouseleave', 'mega-menu', closeMegamenu);
 	$('body').on('mouseleave', 'header', closeMegamenu);
 	$('body').on('mouseenter', '#menu-content a', openSubLevel);
-	$('body').on('click', '#menu-content .folder > a, #mobile-navi .folder > a', toggleFolder);
+	$('body').on('click', '.sidenav .folder > a, #mobile-navi .folder > a', toggleFolder);
 	$('body').on('click', '#social-services [data-slide]', openServiceSlide);
 	$('body').on('click', '.yough-page', openYoughSlide);
 	$('body').on('click', '.preys-wrapper label', openNames);

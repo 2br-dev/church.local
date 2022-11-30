@@ -2,6 +2,10 @@
 
 	transition: background-color .6s, color .6s;
 
+	& .modal-footer{
+		transition: background-color .6s;
+	}
+
 	& .modal-header{
 
 		display: flex;
@@ -14,6 +18,7 @@
 
 		& a{
 			font-size: 32px;
+			transition: color .2s;
 			color: $text;
 		}
 
@@ -197,7 +202,11 @@
 		color: $paper;
 
 		& a:not(.bttn){
-			color: $text;
+			color: $paper;
+		}
+
+		& .modal-footer{
+			background-color: $text;
 		}
 
 		& input[type="radio"]{

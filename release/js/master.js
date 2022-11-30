@@ -80,6 +80,12 @@ function initFrameworks() {
     });
   }
   if ($('#social-services-swiper').length) {
+    $('#social-services-swiper .swiper-slide').each(function (index, el) {
+      $(el).attr('data-slide', index);
+    });
+    $('.slider-pages li').each(function (index, el) {
+      $(el).attr("data-slide", index);
+    });
     var socialSlider = new Swiper('#social-services-swiper', {
       mousewheel: true,
       pagination: {
@@ -104,6 +110,12 @@ function initFrameworks() {
     });
   }
   if ($('#yough-slider').length) {
+    $('#yough-slider .swiper-slide').each(function (index, el) {
+      $(el).attr('data-index', index);
+    });
+    $('.yough-pages .lazy').each(function (index, el) {
+      $(el).attr("data-index", index);
+    });
     var youghSlider = new Swiper('#yough-slider', {
       on: {
         'slideChangeTransitionEnd': function slideChangeTransitionEnd() {
@@ -155,7 +167,7 @@ function initEvents() {
   $('body').on('mouseleave', 'mega-menu', closeMegamenu);
   $('body').on('mouseleave', 'header', closeMegamenu);
   $('body').on('mouseenter', '#menu-content a', openSubLevel);
-  $('body').on('click', '#menu-content .folder > a, #mobile-navi .folder > a', toggleFolder);
+  $('body').on('click', '.sidenav .folder > a, #mobile-navi .folder > a', toggleFolder);
   $('body').on('click', '#social-services [data-slide]', openServiceSlide);
   $('body').on('click', '.yough-page', openYoughSlide);
   $('body').on('click', '.preys-wrapper label', openNames);
